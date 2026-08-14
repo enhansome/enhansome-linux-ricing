@@ -1,0 +1,4308 @@
+{
+  "items": [
+    {
+      "description": "This very AWESOME list is made to help anyone interested in extensively customizing their Linux desktop, or what we call 'ricing'. It's a very good place to start your adventure, helping you discover what you can use, or what ELSE you can use to over-customize your rice. The goal is to have some of the very popular themes and tools, as well as some lesser-known ones, to help you find that perfect fit. It's your go-to list when you need to waste your time ricing, instead of tending to your responsibilities.",
+      "items": [],
+      "title": "Description"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Window Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sway",
+          "description": "Wayland - Tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T11:47:08Z",
+            "owner": "swaywm",
+            "repo": "sway",
+            "stars": 17231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i3",
+          "description": "X11 - Tiling window manager for X11.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T06:22:26Z",
+            "owner": "i3",
+            "repo": "i3",
+            "stars": 10538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bspwm",
+          "description": "X11 - Tiling window manager that represents windows as the leaves of a full binary tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-19T20:00:14Z",
+            "owner": "baskerville",
+            "repo": "bspwm",
+            "stars": 8302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leftwm",
+          "description": "X11 - Tiling window manager written in Rust for advanced.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T02:45:30Z",
+            "owner": "leftwm",
+            "repo": "leftwm",
+            "stars": 3046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "herbstluftwm",
+          "description": "X11 - Manual tiling window manager for X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-02T17:48:25Z",
+            "owner": "herbstluftwm",
+            "repo": "herbstluftwm",
+            "stars": 1162
+          }
+        }
+      ],
+      "title": "Tiling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ηyprland",
+          "description": "Wayland - Highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:57:59Z",
+            "owner": "hyprwm",
+            "repo": "Hyprland",
+            "stars": 37867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "niri",
+          "description": "Wayland - Scrollable-tiling Wayland compositor, heavily inspired by PaperWM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T13:09:26Z",
+            "owner": "niri-wm",
+            "repo": "niri",
+            "stars": 26889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": "X11 - Highly configurable, next generation framework window manager for X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-26T00:27:49Z",
+            "owner": "awesomeWM",
+            "repo": "awesome",
+            "stars": 6939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QTile",
+          "description": "X11 + Wayland - Full-featured, hackable tiling window manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:08:47Z",
+            "owner": "qtile",
+            "repo": "qtile",
+            "stars": 5286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "river",
+          "description": "Wayland - Dynamic tiling Wayland compositor with flexible runtime configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-07T10:54:51Z",
+            "owner": "riverwm",
+            "repo": "river",
+            "stars": 4244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XMonad",
+          "description": "X11 - Small but functional ICCCM-compliant tiling window manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-06-28T00:54:31Z",
+            "owner": "xmonad",
+            "repo": "xmonad",
+            "stars": 3580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangoWC",
+          "description": "Wayland - Modern, lightweight, high-performance Wayland compositor built on dwl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T12:44:08Z",
+            "owner": "mangowm",
+            "repo": "mango",
+            "stars": 3461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ragnar",
+          "description": "X11 - Minimal, flexible & user-friendly X tiling window manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T19:38:58Z",
+            "owner": "cococry",
+            "repo": "ragnar",
+            "stars": 1244
+          }
+        }
+      ],
+      "title": "Dynamic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dracula",
+          "description": "Dark spooky theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T14:12:09Z",
+            "owner": "dracula",
+            "repo": "dracula-theme",
+            "stars": 23555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catppuccin",
+          "description": "Soothing pastel theme for the high-spirited.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T11:36:35Z",
+            "owner": "catppuccin",
+            "repo": "catppuccin",
+            "stars": 19644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gruvbox",
+          "description": "Retro groove color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-08T16:29:56Z",
+            "owner": "morhetz",
+            "repo": "gruvbox",
+            "stars": 15678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nord",
+          "description": "Arctic, north-bluish color palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-10-18T21:33:29Z",
+            "owner": "nordtheme",
+            "repo": "nord",
+            "stars": 6864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kanagawa",
+          "description": "Dark color scheme inspired by the famous painting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-10T16:31:53Z",
+            "owner": "rebelot",
+            "repo": "kanagawa.nvim",
+            "stars": 6329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everforest",
+          "description": "Comfortable and pleasant green forest color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-08T19:09:46Z",
+            "owner": "sainnhe",
+            "repo": "everforest",
+            "stars": 4169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokyo Night",
+          "description": "Clean, dark theme that celebrates the lights of Tokyo at night.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-05T19:34:53Z",
+            "owner": "tokyo-night",
+            "repo": "tokyo-night-vscode-theme",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweet",
+          "description": "Colorful candy theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-13T21:53:38Z",
+            "owner": "EliverLara",
+            "repo": "Sweet",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rosé Pine",
+          "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-05T13:59:34Z",
+            "owner": "rose-pine",
+            "repo": "rose-pine-theme",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everblush",
+          "description": "Dark, vibrant and beautiful Colorscheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-10T09:22:37Z",
+            "owner": "Everblush",
+            "repo": "everblush",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlackLotus",
+          "description": "Dark, dim, blue, purple... beautiful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-10-19T10:36:25Z",
+            "owner": "PoisonIsBestType",
+            "repo": "BlackLotus",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whale",
+          "description": "Dark theme inspired by Ark and Nord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-02T21:55:30Z",
+            "owner": "anufrievroman",
+            "repo": "whale",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opulo",
+          "description": "Colorscheme for absolute nerds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-10-24T21:47:21Z",
+            "owner": "kewmine",
+            "repo": "opulo",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shades of purple",
+          "description": "Sweet purple theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-20T23:33:50Z",
+            "owner": "EliverLara",
+            "repo": "Shades-of-purple-gtk",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "camellia",
+          "description": "Dark yet vibrant color scheme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-05T15:10:04Z",
+            "owner": "camellia-theme",
+            "repo": "camellia",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Color Scheme"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pywall",
+          "description": "Generate and change color-schemes according to your wallpaper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-27T15:51:44Z",
+            "owner": "dylanaraps",
+            "repo": "pywal",
+            "stars": 9084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wpgtk",
+          "description": "Colorscheme, wallpaper and template manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T01:28:24Z",
+            "owner": "deviantfero",
+            "repo": "wpgtk",
+            "stars": 2197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gtheme",
+          "description": "Command-line theme manager. Apply consistent themes across your terminal, editor, status bar, wallpaper, and WM with one command. 350+ themes, Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-20T13:20:56Z",
+            "owner": "daavidrgz",
+            "repo": "gtheme",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "Some great GitHub repos with wallpaper collections by:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dharmx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-06T05:28:21Z",
+            "owner": "dharmx",
+            "repo": "walls",
+            "stars": 8462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3Ext",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-17T12:47:43Z",
+            "owner": "D3Ext",
+            "repo": "aesthetic-wallpapers",
+            "stars": 3425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linuxdotexe",
+          "description": "Nord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T05:05:22Z",
+            "owner": "linuxdotexe",
+            "repo": "nordic-wallpapers",
+            "stars": 1844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AngelJumbo",
+          "description": "Gruvbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-20T13:20:21Z",
+            "owner": "AngelJumbo",
+            "repo": "gruvbox-wallpapers",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zhichaoh",
+          "description": "Catppuccin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-17T16:22:27Z",
+            "owner": "zhichaoh",
+            "repo": "catppuccin-wallpapers",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrenzyExists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-12-02T19:06:39Z",
+            "owner": "FrenzyExists",
+            "repo": "wallpapers",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apeiros-46B",
+          "description": "Everforest",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-11-16T05:01:29Z",
+            "owner": "Apeiros-46B",
+            "repo": "everforest-walls",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axenide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-09T13:11:01Z",
+            "owner": "Axenide",
+            "repo": "Wallpapers",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "er2de2",
+          "description": "Catppuccin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-12T18:11:48Z",
+            "owner": "er2de2",
+            "repo": "catppuccin_walls",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gboncoffee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-09T16:33:13Z",
+            "owner": "gboncoffee",
+            "repo": "wallpapers",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zDyanTB",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-23T11:27:31Z",
+            "owner": "zDyant",
+            "repo": "aesthetic-wallpapers",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vctrblck",
+          "description": "Gruvbox",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-22T12:33:34Z",
+            "owner": "vctrblck",
+            "repo": "gruvbox-wallpapers",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Wallpapers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mpvpaper",
+          "description": "Wayland - Video wallpaper program for wlroots based wayland compositors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-25T18:55:07Z",
+            "owner": "GhostNaN",
+            "repo": "mpvpaper",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyprpaper",
+          "description": "Wayland - Fast Wayland wallpaper utility with IPC controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:14:10Z",
+            "owner": "hyprwm",
+            "repo": "hyprpaper",
+            "stars": 1343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swaybg",
+          "description": "Wayland - Wallpaper tool for Wayland compositors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-25T08:00:23Z",
+            "owner": "swaywm",
+            "repo": "swaybg",
+            "stars": 806
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Font"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FiraCode",
+          "description": "ligatures - Monospaced font with programming ligatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-28T17:02:16Z",
+            "owner": "tonsky",
+            "repo": "FiraCode",
+            "stars": 81925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascadia Code",
+          "description": "ligatures - Fun font designed to enchance the modern look and feel of the *** Terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T03:26:32Z",
+            "owner": "microsoft",
+            "repo": "cascadia-code",
+            "stars": 27837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iosevka",
+          "description": "ligatures - Versatile typeface for code, from code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:23:28Z",
+            "owner": "be5invis",
+            "repo": "Iosevka",
+            "stars": 22617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JetBrains Mono",
+          "description": "ligatures - Τypeface made for developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-31T14:05:22Z",
+            "owner": "JetBrains",
+            "repo": "JetBrainsMono",
+            "stars": 12958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monoid",
+          "description": "ligatures - Customisable coding font with alternates, ligatures and contextual positioning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-26T07:45:56Z",
+            "owner": "larsenwork",
+            "repo": "monoid",
+            "stars": 7960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasklig",
+          "description": "ligatures - Code font with monospaced ligatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-19T01:25:54Z",
+            "owner": "i-tu",
+            "repo": "Hasklig",
+            "stars": 5721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victor Mono",
+          "description": "ligatures - Free programming font with cursive italics and ligatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-18T15:41:27Z",
+            "owner": "rubjo",
+            "repo": "victor-mono",
+            "stars": 3787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DejaVuCode",
+          "description": "ligatures - Monospaced font with programming ligatures based on DejaVu Sans Mono.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2019-05-06T11:28:37Z",
+            "owner": "SSNikolaevich",
+            "repo": "DejaVuSansCode",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gohufont",
+          "description": "Monospace bitmap font.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-26T22:47:55Z",
+            "owner": "hchargois",
+            "repo": "gohufont",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Operator-caska",
+          "description": "ligatures - Font with ligature and cursive support, combination of both CaskaydiaCove Nerd Font and Operator Mono.",
+          "children": []
+        }
+      ],
+      "title": "Monospace Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nerd Fonts",
+          "description": "Collection of nerd fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T11:01:16Z",
+            "owner": "ryanoasis",
+            "repo": "nerd-fonts",
+            "stars": 64152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "font-patcher",
+          "description": "Patch your own fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-10T11:01:16Z",
+            "owner": "ryanoasis",
+            "repo": "nerd-fonts",
+            "stars": 64152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getnf",
+          "description": "Helpful tool to install Nerd Fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-19T23:43:21Z",
+            "owner": "getnf",
+            "repo": "getnf",
+            "stars": 1256
+          }
+        }
+      ],
+      "title": "Nerd Fonts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polybar",
+          "description": "X11 - Fast and easy-to-use status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-24T08:29:01Z",
+            "owner": "polybar",
+            "repo": "polybar",
+            "stars": 15332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eww",
+          "description": "X11 + Wayland - ElKowars wacky widgets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T07:29:44Z",
+            "owner": "elkowar",
+            "repo": "eww",
+            "stars": 12607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waybar",
+          "description": "Wayland - Highly customizable Wayland bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T12:24:41Z",
+            "owner": "Alexays",
+            "repo": "Waybar",
+            "stars": 11781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ags",
+          "description": "X11 + Wayland - Very customizable and extensible shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T23:04:21Z",
+            "owner": "Aylur",
+            "repo": "ags",
+            "stars": 3074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lemonbar",
+          "description": "X11 - Featherweight, lemon-scented, bar based on xcb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-02T07:33:39Z",
+            "owner": "LemonBoy",
+            "repo": "bar",
+            "stars": 1689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabric",
+          "description": "X11 + Wayland - Next-gen framework for building desktop widgets using Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T07:35:28Z",
+            "owner": "Fabric-Development",
+            "repo": "fabric",
+            "stars": 1353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gBar",
+          "description": "Wayland - Blazingly fast status bar written with GTK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-17T17:38:31Z",
+            "owner": "scorpion-26",
+            "repo": "gBar",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "Bar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bibata",
+          "description": "Open source, compact, and material designed cursor set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-18T04:05:14Z",
+            "owner": "ful1e5",
+            "repo": "Bibata_Cursor",
+            "stars": 3925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apple",
+          "description": "Cursor inspired by Apple's macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-28T05:04:49Z",
+            "owner": "ful1e5",
+            "repo": "apple_cursor",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qogir",
+          "description": "Cursor inspired by Qogir icon theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-04T03:15:36Z",
+            "owner": "vinceliuice",
+            "repo": "Qogir-icon-theme",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BreezeX",
+          "description": "Extended KDE cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-27T10:22:06Z",
+            "owner": "ful1e5",
+            "repo": "BreezeX_Cursor",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vimix",
+          "description": "Cursor inspired by Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-08-13T21:47:09Z",
+            "owner": "vinceliuice",
+            "repo": "Vimix-cursors",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuchsia",
+          "description": "Cursor inspired by Google's FuchsiaOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-14T04:52:50Z",
+            "owner": "ful1e5",
+            "repo": "fuchsia-cursor",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "Cursor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papirus",
+          "description": "Pixel perfect icon theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T14:42:16Z",
+            "owner": "PapirusDevelopmentTeam",
+            "repo": "papirus-icon-theme",
+            "stars": 8004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tela",
+          "description": "Flat colorful Design icon theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T08:17:34Z",
+            "owner": "vinceliuice",
+            "repo": "Tela-icon-theme",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flat Remix",
+          "description": "Icon theme inspired by material design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-11-19T10:12:35Z",
+            "owner": "daniruiz",
+            "repo": "flat-remix",
+            "stars": 1759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Candy",
+          "description": "Sweet gradient icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-06T23:36:09Z",
+            "owner": "EliverLara",
+            "repo": "candy-icons",
+            "stars": 1312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colloid",
+          "description": "Icon theme with a colorful and playful design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T08:07:17Z",
+            "owner": "vinceliuice",
+            "repo": "Colloid-icon-theme",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qogir",
+          "description": "Colorful design icon theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-04T03:15:36Z",
+            "owner": "vinceliuice",
+            "repo": "Qogir-icon-theme",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "suru-plus",
+          "description": "Cyberpunk, elegant, futuristic and Papirus-like third-party icons theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-25T18:43:32Z",
+            "owner": "suru-plus",
+            "repo": "suru-plus",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeautyLine",
+          "description": "Outlined icons designed to have unified look and comprehensive coverage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-16T10:12:35Z",
+            "owner": "gvolpe",
+            "repo": "BeautyLine",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rofi",
+          "description": "X11 + Wayland - Window switcher, application launcher and dmenu replacement.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "custom confs",
+              "description": "Huge collection of Rofi based custom Applets, Launchers & Powermenus by adi1090x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-05-31T15:30:18Z",
+                "owner": "adi1090x",
+                "repo": "rofi",
+                "stars": 8751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rofi-wifi-menu",
+              "description": "Bash script using nmcli and rofi to make a wifi menu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-09-23T13:32:35Z",
+                "owner": "zbaylin",
+                "repo": "rofi-wifi-menu",
+                "stars": 490
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T16:07:51Z",
+            "owner": "davatorium",
+            "repo": "rofi",
+            "stars": 16316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vicinae",
+          "description": "Focused launcher for your desktop — native, fast, extensible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T17:30:12Z",
+            "owner": "vicinaehq",
+            "repo": "vicinae",
+            "stars": 8896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ulauncher",
+          "description": "X11 + Wayland - Feature rich application Launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:07:23Z",
+            "owner": "Ulauncher",
+            "repo": "Ulauncher",
+            "stars": 4501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tofi",
+          "description": "Wayland - Tiny dynamic menu for Wayland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-30T15:19:27Z",
+            "owner": "philj56",
+            "repo": "tofi",
+            "stars": 1392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anyrun",
+          "description": "Wayland - Wayland native, highly customizable runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-09T14:22:59Z",
+            "owner": "anyrun-org",
+            "repo": "anyrun",
+            "stars": 1287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gauntlet",
+          "description": "X11 - Raycast-inspired open-source application launcher with React-based plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-02T16:55:37Z",
+            "owner": "project-gauntlet",
+            "repo": "gauntlet",
+            "stars": 817
+          }
+        }
+      ],
+      "title": "Application Launcher"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dunst",
+          "description": "X11 + Wayland - Lightweight and customizable notification daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T16:52:53Z",
+            "owner": "dunst-project",
+            "repo": "dunst",
+            "stars": 5566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mako",
+          "description": "Wayland - Lightweight Wayland notification daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-30T17:52:58Z",
+            "owner": "emersion",
+            "repo": "mako",
+            "stars": 3221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwayNC",
+          "description": "Wayland - Simple notification daemon with a GTK gui for notifications and the control center.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-06-25T15:18:34Z",
+            "owner": "ErikReider",
+            "repo": "SwayNotificationCenter",
+            "stars": 2555
+          }
+        }
+      ],
+      "title": "Notifications Daemon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "conky",
+          "description": "Light-weight system monitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T17:25:31Z",
+            "owner": "brndnmtthws",
+            "repo": "conky",
+            "stars": 8466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kando",
+          "description": "The Cross-Platform Pie Menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:29:33Z",
+            "owner": "kando-menu",
+            "repo": "kando",
+            "stars": 6175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLava",
+          "description": "OpenGL audio spectrum visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-19T08:05:20Z",
+            "owner": "jarcode-foss",
+            "repo": "glava",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wallpaper-cava",
+          "description": "Display cava on top of your wallpaper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T02:28:12Z",
+            "owner": "rs-pro0",
+            "repo": "wallpaper-cava",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Widgets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rofi",
+          "description": "X11 + Wayland - Window switcher, application launcher and dmenu replacement. Can be used to create logout menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T16:07:51Z",
+            "owner": "davatorium",
+            "repo": "rofi",
+            "stars": 16316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wlogout",
+          "description": "Wayland - Wayland based logout menu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-04T04:04:20Z",
+            "owner": "ArtsyMacaw",
+            "repo": "wlogout",
+            "stars": 1047
+          }
+        }
+      ],
+      "title": "Logout Menu"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hyprlock",
+          "description": "Wayland - Hyprland's GPU-accelerated screen locking utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:23:06Z",
+            "owner": "hyprwm",
+            "repo": "hyprlock",
+            "stars": 1630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swaylock",
+          "description": "Wayland - Screen locker for Wayland.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "swaylock-effects",
+              "description": "Swaylock, with fancy effects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2023-11-28T20:49:18Z",
+                "owner": "mortie",
+                "repo": "swaylock-effects",
+                "stars": 861
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-09T15:59:31Z",
+            "owner": "swaywm",
+            "repo": "swaylock",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i3lock",
+          "description": "X11 - Improved screen locker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-31T08:30:20Z",
+            "owner": "i3",
+            "repo": "i3lock",
+            "stars": 996
+          }
+        }
+      ],
+      "title": "Screen Lock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "alacritty",
+          "description": "Cross-platform, OpenGL terminal emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T08:50:06Z",
+            "owner": "alacritty",
+            "repo": "alacritty",
+            "stars": 65361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghostty",
+          "description": "Fast, feature-rich, and cross-platform terminal emulator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-14T04:06:28Z",
+            "owner": "ghostty-org",
+            "repo": "ghostty",
+            "stars": 59621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kitty",
+          "description": "Cross-platform, fast, feature-rich, GPU based terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T02:43:47Z",
+            "owner": "kovidgoyal",
+            "repo": "kitty",
+            "stars": 34398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wezterm",
+          "description": "GPU-accelerated cross-platform terminal emulator and multiplexer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "st",
+          "description": "Snazzy terminal (suckless + beautiful)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-19T18:04:48Z",
+            "owner": "siduck",
+            "repo": "st",
+            "stars": 750
+          }
+        }
+      ],
+      "title": "Emulator"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nushell",
+          "description": "New type of shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T00:41:38Z",
+            "owner": "nushell",
+            "repo": "nushell",
+            "stars": 40261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fish",
+          "description": "User-friendly shell with autosuggestions and syntax highlighting.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oh-my-fish",
+              "description": "The Fish Shell Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-05-19T18:17:02Z",
+                "owner": "oh-my-fish",
+                "repo": "oh-my-fish",
+                "stars": 11374
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T18:37:25Z",
+            "owner": "fish-shell",
+            "repo": "fish-shell",
+            "stars": 34017
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "bash",
+          "description": "Default shell for most distros.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ble.sh",
+              "description": "Line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-11T21:18:40Z",
+                "owner": "akinomyoga",
+                "repo": "ble.sh",
+                "stars": 4607
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "zsh",
+          "description": "Powerful shell with scripting capabilities.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oh-my-zsh",
+              "description": "Delightful, open source, community-driven framework for managing your Zsh configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-11T11:03:43Z",
+                "owner": "ohmyzsh",
+                "repo": "ohmyzsh",
+                "stars": 189177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prezto",
+              "description": "Popular configuration framework for Zsh.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-04-24T20:29:14Z",
+                "owner": "sorin-ionescu",
+                "repo": "prezto",
+                "stars": 14568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Antigen",
+              "description": "Popular plugin manager for Zsh.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-07-15T13:33:59Z",
+                "owner": "zsh-users",
+                "repo": "antigen",
+                "stars": 8348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zinit",
+              "description": "Flexible and fast ZSH plugin manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-13T12:02:38Z",
+                "owner": "zdharma-continuum",
+                "repo": "zinit",
+                "stars": 4803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zimfw",
+              "description": "Modular, customizable, and blazing fast Zsh framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-05-14T03:21:00Z",
+                "owner": "zimfw",
+                "repo": "zimfw",
+                "stars": 4665
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zgen",
+              "description": "Lightweight and simple plugin manager for ZSH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2021-07-21T03:56:30Z",
+                "owner": "tarjoilija",
+                "repo": "zgen",
+                "stars": 1527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zap",
+              "description": "Minimal zsh plugin manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-03-01T00:49:54Z",
+                "owner": "zap-zsh",
+                "repo": "zap",
+                "stars": 1170
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Shell"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Starship",
+          "description": "Minimal, blazing-fast, and infinitely customizable prompt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T05:42:34Z",
+            "owner": "starship",
+            "repo": "starship",
+            "stars": 59397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "powerlevel10k",
+          "description": "zsh - Theme for zsh emphasizing speed, flexibility and out-of-the-box experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-15T07:54:59Z",
+            "owner": "romkatv",
+            "repo": "powerlevel10k",
+            "stars": 54907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh-my-posh",
+          "description": "The most customisable and low-latency cross platform/shell prompt renderer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:05:59Z",
+            "owner": "JanDeDobbeleer",
+            "repo": "oh-my-posh",
+            "stars": 23272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pure",
+          "description": "zsh - Pretty, minimal and fast ZSH prompt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-16T13:03:26Z",
+            "owner": "sindresorhus",
+            "repo": "pure",
+            "stars": 14385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trueline",
+          "description": "bash - Fast and extensible bash powerline prompt with true color and fancy icon support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-31T21:56:03Z",
+            "owner": "petobens",
+            "repo": "trueline",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roundy",
+          "description": "zsh - Fast, cute, and-of-course, roundy prompt-theme for Zsh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-28T11:41:00Z",
+            "owner": "nullxception",
+            "repo": "roundy",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Prompt"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmux",
+          "description": "Terminal multiplexer with a focus on simplicity and productivity.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tmux-plugins",
+              "description": "Collection of useful tmux plugins.",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:59Z",
+            "owner": "tmux",
+            "repo": "tmux",
+            "stars": 48611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zellij",
+          "description": "Terminal workspace with batteries included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:19:13Z",
+            "owner": "zellij-org",
+            "repo": "zellij",
+            "stars": 34886
+          }
+        }
+      ],
+      "title": "Multiplexer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yazi",
+          "description": "Blazing fast terminal file manager written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-14T03:47:29Z",
+            "owner": "sxyazi",
+            "repo": "yazi",
+            "stars": 41307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "superfile",
+          "description": "Pretty fancy and modern terminal file manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:39:36Z",
+            "owner": "yorukot",
+            "repo": "superfile",
+            "stars": 22503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nnn",
+          "description": "Tiny, small and incredibly fast file manager for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T20:37:04Z",
+            "owner": "jarun",
+            "repo": "nnn",
+            "stars": 21781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranger",
+          "description": "VIM-inspired file manager for the console.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "devicons",
+              "description": "File glyphs / icon support to Ranger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-05T14:56:50Z",
+                "owner": "alexanderjeurissen",
+                "repo": "ranger_devicons",
+                "stars": 1004
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:03:32Z",
+            "owner": "ranger",
+            "repo": "ranger",
+            "stars": 17342
+          }
+        }
+      ],
+      "title": "File Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neovim",
+          "description": "Vim-fork focused on extensibility and usability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-14T05:44:05Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "Post-modern text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim",
+          "description": "Highly configurable text editor built to enable efficient text editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T18:54:06Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro",
+          "description": "Modern and intuitive terminal-based text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T00:28:58Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kakoune",
+          "description": "Modal editor with multiple selections and orthogonal design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:11:09Z",
+            "owner": "mawww",
+            "repo": "kakoune",
+            "stars": 11023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nano",
+          "description": "Simple and easy-to-use text editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T01:53:44Z",
+            "owner": "madnight",
+            "repo": "nano",
+            "stars": 183
+          }
+        }
+      ],
+      "title": "Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "timg",
+          "description": "User-friendly terminal image viewer that uses graphic capabilities of terminals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T11:13:52Z",
+            "owner": "hzeller",
+            "repo": "timg",
+            "stars": 2723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catimg",
+          "description": "Insanely fast image printing in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-07T08:59:37Z",
+            "owner": "posva",
+            "repo": "catimg",
+            "stars": 1573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imcat",
+          "description": "Show any image in a terminal window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-25T21:19:02Z",
+            "owner": "stolk",
+            "repo": "imcat",
+            "stars": 347
+          }
+        }
+      ],
+      "title": "Image Printing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spotify-tui",
+          "description": "Spotify - Spotify for the terminal written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-04T15:03:12Z",
+            "owner": "Rigellute",
+            "repo": "spotify-tui",
+            "stars": 19295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotify_player",
+          "description": "Spotify - Spotify player in the terminal with full feature parity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T15:00:08Z",
+            "owner": "aome510",
+            "repo": "spotify-player",
+            "stars": 7066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmus",
+          "description": "Small, fast and powerful console music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:05:38Z",
+            "owner": "cmus",
+            "repo": "cmus",
+            "stars": 6207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncmpcpp",
+          "description": "MPD - Featureful ncurses based MPD client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T22:43:48Z",
+            "owner": "ncmpcpp",
+            "repo": "ncmpcpp",
+            "stars": 2470
+          }
+        }
+      ],
+      "title": "Music Players"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "btop",
+          "description": "Resource monitor that shows usage and stats for processor, memory, disks, network and processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T19:49:45Z",
+            "owner": "aristocratos",
+            "repo": "btop",
+            "stars": 33974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glances",
+          "description": "Glances an Eye on your system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:18:46Z",
+            "owner": "nicolargo",
+            "repo": "glances",
+            "stars": 33353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htop",
+          "description": "Interactive process viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:41:31Z",
+            "owner": "htop-dev",
+            "repo": "htop",
+            "stars": 8245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s-tui",
+          "description": "Terminal-based CPU stress and monitoring utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:36:55Z",
+            "owner": "amanusk",
+            "repo": "s-tui",
+            "stars": 5066
+          }
+        }
+      ],
+      "title": "System Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eza",
+          "description": "Modern alternative to .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:53:22Z",
+            "owner": "eza-community",
+            "repo": "eza",
+            "stars": 22924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lsd",
+          "description": "The next gen command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T17:02:07Z",
+            "owner": "lsd-rs",
+            "repo": "lsd",
+            "stars": 16165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color LS",
+          "description": "Ruby gem that beautifies the terminal's command with color and font-awesome icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T11:41:05Z",
+            "owner": "athityakumar",
+            "repo": "colorls",
+            "stars": 5135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "logo-ls",
+          "description": "Modern command with vscode like file icons and integrations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-10T08:58:06Z",
+            "owner": "Yash-Handa",
+            "repo": "logo-ls",
+            "stars": 1185
+          }
+        }
+      ],
+      "title": "Directory Listing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nvm",
+          "description": "POSIX-compliant bash script to manage multiple active node.js versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T19:11:41Z",
+            "owner": "nvm-sh",
+            "repo": "nvm",
+            "stars": 94579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carbon-now-cli",
+          "description": "Beautiful images of your code — from right inside your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-14T13:08:50Z",
+            "owner": "mixn",
+            "repo": "carbon-now-cli",
+            "stars": 6030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xdg-ninja",
+          "description": "Shell script which checks your $HOME for unwanted files and directories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-05-10T15:09:36Z",
+            "owner": "b3nj5m1n",
+            "repo": "xdg-ninja",
+            "stars": 3347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evillimiter",
+          "description": "Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T21:09:52Z",
+            "owner": "bitbrute",
+            "repo": "evillimiter",
+            "stars": 2002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arch-update",
+          "description": "Update applier for Arch Linux that assists you with important pre/post update tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T18:19:29Z",
+            "owner": "Antiz96",
+            "repo": "arch-update",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "more:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-shell",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-08-28T14:40:51Z",
+                "owner": "alebcay",
+                "repo": "awesome-shell",
+                "stars": 37444
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-cli-apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-08-04T17:57:03Z",
+                "owner": "agarrharr",
+                "repo": "awesome-cli-apps",
+                "stars": 20154
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fancies"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fastfetch",
+          "description": "Feature-rich and performance oriented, like system information tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:43:44Z",
+            "owner": "fastfetch-cli",
+            "repo": "fastfetch",
+            "stars": 24195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neofetch",
+          "description": "Command-line system information tool written in bash.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "neofetch-themes",
+              "description": "Collection of themes for .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2025-12-25T19:18:47Z",
+                "owner": "Chick2D",
+                "repo": "neofetch-themes",
+                "stars": 1738
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-07-19T20:19:01Z",
+            "owner": "dylanaraps",
+            "repo": "neofetch",
+            "stars": 23717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pfetch",
+          "description": "Pretty system information tool written in POSIX sh.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-02-03T22:34:25Z",
+            "owner": "dylanaraps",
+            "repo": "pfetch",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyfetch",
+          "description": "with LGBTQ+ pride flags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T05:50:51Z",
+            "owner": "hykilpikonna",
+            "repo": "hyfetch",
+            "stars": 2085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macchina",
+          "description": "System information frontend with an emphasis on performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-08T00:31:31Z",
+            "owner": "Macchina-CLI",
+            "repo": "macchina",
+            "stars": 1960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uwufetch",
+          "description": "Meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-14T20:24:26Z",
+            "owner": "ad-oliviero",
+            "repo": "uwufetch",
+            "stars": 815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nerdfetch",
+          "description": "POSIX *nix fetch script using Nerdfonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-16T22:30:19Z",
+            "owner": "ThatOneCalculator",
+            "repo": "NerdFetch",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nitch",
+          "description": "Incredibly fast system fetch written in nim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2024-06-22T19:57:29Z",
+            "owner": "ssleert",
+            "repo": "nitch",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fetch",
+          "description": "A alternative with a 3D animated distro logo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T00:09:52Z",
+            "owner": "areofyl",
+            "repo": "fetch",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freshfetch",
+          "description": "A fresh take on neofetch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-05T16:23:00Z",
+            "owner": "K4rakara",
+            "repo": "freshfetch",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxfetch",
+          "description": "Custom system info fetching tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-25T14:39:44Z",
+            "owner": "mngshm",
+            "repo": "rxfetch",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catnap",
+          "description": "Highly customizable systemfetch written in nim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2026-07-01T14:12:41Z",
+            "owner": "iinsertNameHere",
+            "repo": "catnap",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bunnyfetch",
+          "description": "Tiny system info fetch utility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-14T02:15:38Z",
+            "owner": "sammy-ette",
+            "repo": "bunnyfetch",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Fetch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SL",
+          "description": "SL(1): Cure your bad habit of mistyping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-11T23:15:48Z",
+            "owner": "mtoyoda",
+            "repo": "sl",
+            "stars": 3327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipes.sh",
+          "description": "Animated pipes terminal screensaver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-12T05:25:41Z",
+            "owner": "pipeseroni",
+            "repo": "pipes.sh",
+            "stars": 3007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nyancat",
+          "description": "Nyancat in your terminal, rendered through ANSI escape sequences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-19T00:05:30Z",
+            "owner": "klange",
+            "repo": "nyancat",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arttime",
+          "description": "text art with functionality of clock / timer / pattern-based time manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-10T15:28:39Z",
+            "owner": "poetaman",
+            "repo": "arttime",
+            "stars": 1375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asciiquarium",
+          "description": "Enjoy the mysteries of the sea from the safety of your own terminal!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2023-08-25T12:22:59Z",
+            "owner": "cmatsuoka",
+            "repo": "asciiquarium",
+            "stars": 1250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ascii-rain",
+          "description": "Ncurses rain effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-11T07:23:06Z",
+            "owner": "nkleemann",
+            "repo": "ascii-rain",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sortty",
+          "description": "Sorting algorithms in the terminal.",
+          "children": []
+        }
+      ],
+      "title": "Terminal Visuals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tty-clock",
+          "description": "Clock using lib ncurses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-31T11:18:25Z",
+            "owner": "xorg62",
+            "repo": "tty-clock",
+            "stars": 1138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peaclock",
+          "description": "Responsive and customizable clock for the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-15T17:27:36Z",
+            "owner": "octobanana",
+            "repo": "peaclock",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tenki",
+          "description": "tty-clock with weather effect",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T02:23:28Z",
+            "owner": "ckaznable",
+            "repo": "tenki",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Clock"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CAVA",
+          "description": "Cross-platform Audio Visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T14:48:11Z",
+            "owner": "karlstav",
+            "repo": "cava",
+            "stars": 6340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musializer",
+          "description": "Music Visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-27T16:49:59Z",
+            "owner": "tsoding",
+            "repo": "musializer",
+            "stars": 1454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCidia",
+          "description": "Highly customizable real time audio visualizer on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-19T16:07:40Z",
+            "owner": "GhostNaN",
+            "repo": "recidia-audio-visualizer",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReVidia",
+          "description": "Highly customizable real time audio visualizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-28T21:20:39Z",
+            "owner": "GhostNaN",
+            "repo": "ReVidia-Audio-Visualizer",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Audio Visualizer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CMatrix",
+          "description": "Terminal based \"The Matrix\" like implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-21T02:41:08Z",
+            "owner": "abishekvashok",
+            "repo": "cmatrix",
+            "stars": 5206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unimatrix",
+          "description": "Python script to simulate the display from \"The Matrix\" in terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T23:15:33Z",
+            "owner": "will8211",
+            "repo": "unimatrix",
+            "stars": 1937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neo",
+          "description": "Simulates the digital rain from \"The Matrix\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-04-02T21:04:50Z",
+            "owner": "st3w",
+            "repo": "neo",
+            "stars": 947
+          }
+        }
+      ],
+      "title": "Matrix"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ponysay",
+          "description": "Pony rewrite of cowsay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pony",
+            "last_commit": "2024-08-14T21:25:51Z",
+            "owner": "erkin",
+            "repo": "ponysay",
+            "stars": 1318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cowsay",
+          "description": "Configurable talking cow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-24T07:32:35Z",
+            "owner": "piuccio",
+            "repo": "cowsay",
+            "stars": 1308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boxes",
+          "description": "Command line ASCII boxes unlimited!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T16:32:37Z",
+            "owner": "ascii-boxes",
+            "repo": "boxes",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lovesay",
+          "description": "Cowsay, but full of love.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-20T02:41:49Z",
+            "owner": "dotzenith",
+            "repo": "lovesay.rs",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Character Play"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pokeget-rs",
+          "description": "Bash script you can use to display AWESOME sprites of pokemon in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-13T14:09:03Z",
+            "owner": "talwat",
+            "repo": "pokeget-rs",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krabby",
+          "description": "Print pokemon sprites in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-30T13:22:24Z",
+            "owner": "yannjor",
+            "repo": "krabby",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poketex",
+          "description": "Simple Pokedex based on TUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-05T03:46:22Z",
+            "owner": "ckaznable",
+            "repo": "poketex",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokeshell",
+          "description": "Featureful shell program to show pokemon sprites in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-24T17:46:12Z",
+            "owner": "acxz",
+            "repo": "pokeshell",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "Pokemon-Themed"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lolcat",
+          "description": "Rainbows and unicorns!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-03-05T16:19:55Z",
+            "owner": "busyloop",
+            "repo": "lolcat",
+            "stars": 6565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FIGlet",
+          "description": "Claudio's FIGlet tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-13T12:09:53Z",
+            "owner": "cmatsuoka",
+            "repo": "figlet",
+            "stars": 1641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toilet",
+          "description": "The Other Implementation of figLET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-24T02:46:24Z",
+            "owner": "cacalabs",
+            "repo": "toilet",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lolcrab",
+          "description": "Like lolcat but with noise and more colorful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-22T08:24:01Z",
+            "owner": "mazznoer",
+            "repo": "lolcrab",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Text and Fonts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chromium",
+          "description": "Open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-14T05:21:19Z",
+            "owner": "chromium",
+            "repo": "chromium",
+            "stars": 24503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Floorp",
+          "description": "Firefox - Browser built for keeping the Open, Private and Sustainable Web alive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:08:38Z",
+            "owner": "Floorp-Projects",
+            "repo": "Floorp",
+            "stars": 8323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thorium",
+          "description": "Chromium - Chromium fork for linux named after radioactive element No. 90.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T03:11:46Z",
+            "owner": "Alex313031",
+            "repo": "thorium",
+            "stars": 7425
+          }
+        }
+      ],
+      "title": "Web Browser"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nemo",
+          "description": "Default file browser for Cinnamon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:17:52Z",
+            "owner": "linuxmint",
+            "repo": "nemo",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCmanFM",
+          "description": "Extremely fast and lightweight file manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-03T11:03:38Z",
+            "owner": "lxde",
+            "repo": "pcmanfm",
+            "stars": 248
+          }
+        }
+      ],
+      "title": "File Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qimgv",
+          "description": "Image viewer. Fast, easy to use. Optional video support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-19T13:44:37Z",
+            "owner": "easymodo",
+            "repo": "qimgv",
+            "stars": 3102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feh",
+          "description": "Fast and light image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T17:23:06Z",
+            "owner": "derf",
+            "repo": "feh",
+            "stars": 1904
+          }
+        }
+      ],
+      "title": "Image Viewer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "feishin",
+          "description": "Modern self-hosted music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:51:34Z",
+            "owner": "jeffvli",
+            "repo": "feishin",
+            "stars": 9483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeaDBeeF",
+          "description": "Multiple-platform music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T19:35:11Z",
+            "owner": "DeaDBeeF-Player",
+            "repo": "deadbeef",
+            "stars": 1954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G4Music",
+          "description": "Light weight music player written in GTK4, with a fluent adaptive user interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-06-27T03:43:06Z",
+            "owner": "neithern",
+            "repo": "g4music",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lyssa",
+          "description": "Aestethic, minimal, suckless music player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-01T19:17:46Z",
+            "owner": "cococry",
+            "repo": "lyssa",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunamu",
+          "description": "Fancy music controller whose only purpose is to look as fancy as possible on secondary displays.",
+          "children": []
+        }
+      ],
+      "title": "Music Player"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mpv",
+          "description": "Command line video player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T19:03:11Z",
+            "owner": "mpv-player",
+            "repo": "mpv",
+            "stars": 36531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLC",
+          "description": "Open source media player and multimedia engine, focused on playing everything, and running everywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T13:22:41Z",
+            "owner": "videolan",
+            "repo": "vlc",
+            "stars": 19312
+          }
+        }
+      ],
+      "title": "Video Streamer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zathura",
+          "description": "Highly customizable and functional document viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:29:39Z",
+            "owner": "pwmt",
+            "repo": "zathura",
+            "stars": 3247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookworm",
+          "description": "Simple ebook reader for Elementary OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-08-13T08:51:27Z",
+            "owner": "babluboy",
+            "repo": "bookworm",
+            "stars": 1386
+          }
+        }
+      ],
+      "title": "Document Reader"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vscodium",
+          "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geany",
+          "description": "Lightweight and fast IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T21:34:14Z",
+            "owner": "geany",
+            "repo": "geany",
+            "stars": 3693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kate",
+          "description": "Modern text editor built on the KDE Frameworks and Qt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T03:32:11Z",
+            "owner": "KDE",
+            "repo": "kate",
+            "stars": 1093
+          }
+        }
+      ],
+      "title": "Text Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AppFlowy",
+          "description": "AI collaborative workspace where you achieve more without losing control of your data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T13:01:19Z",
+            "owner": "AppFlowy-IO",
+            "repo": "AppFlowy",
+            "stars": 75365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qnote",
+          "description": "Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. Built with Tauri 2. Available on AUR.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T17:28:33Z",
+            "owner": "Omibranch",
+            "repo": "qnote",
+            "stars": 96
+          }
+        }
+      ],
+      "title": "Notes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workstation - Content Creation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Olive",
+          "description": "Free non-linear video editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-05T10:34:17Z",
+            "owner": "olive-editor",
+            "repo": "olive",
+            "stars": 9114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kdenlive",
+          "description": "Free and open source video editor, based on MLT Framework and KDE Frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T03:27:52Z",
+            "owner": "KDE",
+            "repo": "kdenlive",
+            "stars": 5466
+          }
+        }
+      ],
+      "title": "Video Editing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MuseScore",
+          "description": "Open source and free music notation software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T14:24:41Z",
+            "owner": "musescore",
+            "repo": "MuseScore",
+            "stars": 14979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmms",
+          "description": "Cross-platform music production software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T16:37:00Z",
+            "owner": "LMMS",
+            "repo": "lmms",
+            "stars": 10241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blue",
+          "description": "Integrated Music Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-04T21:29:05Z",
+            "owner": "kunstmusik",
+            "repo": "blue",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "Music Production"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FreeCAD",
+          "description": "Open-source parametric 3D CAD modeler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T05:16:42Z",
+            "owner": "FreeCAD",
+            "repo": "FreeCAD",
+            "stars": 32839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blender",
+          "description": "Popular free and open-source 3D computer graphics software toolset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T03:14:49Z",
+            "owner": "blender",
+            "repo": "blender",
+            "stars": 19698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeshLab",
+          "description": "Open source mesh processing system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:14:56Z",
+            "owner": "cnr-isti-vclab",
+            "repo": "meshlab",
+            "stars": 5787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wings",
+          "description": "Advanced sub-division 3D modeler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-07-07T08:14:55Z",
+            "owner": "dgud",
+            "repo": "wings",
+            "stars": 663
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OBS Studio",
+          "description": "Open Broadcaster Software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T00:39:00Z",
+            "owner": "obsproject",
+            "repo": "obs-studio",
+            "stars": 74970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssr",
+          "description": "SimpleScreenRecorder, screen recorder for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T16:49:13Z",
+            "owner": "MaartenBaert",
+            "repo": "ssr",
+            "stars": 2881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kazam",
+          "description": "Linux Screen Recorder, Broadcaster, Capture and OCR with AI in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:54:34Z",
+            "owner": "henrywoo",
+            "repo": "kazam",
+            "stars": 386
+          }
+        }
+      ],
+      "title": "Screen Recording / Live Streaming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Heroic",
+          "description": "Games launcher for GOG, Amazon and Epic Games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:59:09Z",
+            "owner": "Heroic-Games-Launcher",
+            "repo": "HeroicGamesLauncher",
+            "stars": 11999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lutris",
+          "description": "Game Launcher that helps you manage, install and play games from all eras and from most gaming systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:53:04Z",
+            "owner": "lutris",
+            "repo": "lutris",
+            "stars": 10149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rare",
+          "description": "Open source alternative for Epic Games Launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T20:16:07Z",
+            "owner": "RareDevs",
+            "repo": "Rare",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cartridges",
+          "description": "Easy-to-use, elegant game launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:51:40Z",
+            "owner": "kra-mo",
+            "repo": "cartridges",
+            "stars": 828
+          }
+        }
+      ],
+      "title": "Gaming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GUI Apps Ricing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Firefox"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ShyFox",
+          "description": "Very shy little theme that hides the entire browser interface in the window border.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-01-21T07:39:15Z",
+            "owner": "Naezr",
+            "repo": "ShyFox",
+            "stars": 2134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleFox",
+          "description": "Userstyle theme for Firefox minimalist and Keyboard centered.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2022-04-24T18:56:19Z",
+            "owner": "migueravila",
+            "repo": "simplefox",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mod-Blur",
+          "description": "For dark theme lovers / More compact / Modular / Blur.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-24T14:42:56Z",
+            "owner": "datguypiko",
+            "repo": "Firefox-Mod-Blur",
+            "stars": 1726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascade",
+          "description": "Responsive One-Line CSS Theme for Firefox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-05-23T02:27:53Z",
+            "owner": "cascadefox",
+            "repo": "cascade",
+            "stars": 1602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlyingFox",
+          "description": "Opinionated set of configurations for firefox.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2023-04-11T07:11:04Z",
+            "owner": "akshat46",
+            "repo": "FlyingFox",
+            "stars": 1598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sweet",
+          "description": "Dark and modern theme for firefox with vibrant colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-02T00:54:18Z",
+            "owner": "EliverLara",
+            "repo": "firefox-sweet-theme",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nord",
+          "description": "Dark theme for firefox theme created using the awesome Nord color palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-03-02T00:48:58Z",
+            "owner": "EliverLara",
+            "repo": "firefox-nordic-theme",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimatedFox",
+          "description": "Minimal Firefox theme with a hidden popup URL bar and satisfying animations",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2024-07-16T13:55:19Z",
+            "owner": "remyrf",
+            "repo": "AnimatedFox",
+            "stars": 196
+          }
+        }
+      ],
+      "title": "Theme"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nightTab",
+          "description": "Neutral new tab page accented with a chosen colour.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-19T15:15:39Z",
+            "owner": "zombieFox",
+            "repo": "nightTab",
+            "stars": 2047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Excalith",
+          "description": "Terminal-inspired, clean, feature-rich and customizable browser start page.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-05T16:09:22Z",
+            "owner": "excalith",
+            "repo": "excalith-start-page",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter Tab",
+          "description": "Custom new tab page, keeping all the best info handy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-17T02:45:13Z",
+            "owner": "allister-grange",
+            "repo": "startertab",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dawn",
+          "description": "Minimal modern startpage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-25T06:35:20Z",
+            "owner": "b-coimbra",
+            "repo": "dawn",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yags",
+          "description": "Yet Another Generic Startpage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:29:15Z",
+            "owner": "PrettyCoffee",
+            "repo": "yet-another-generic-startpage",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bento-next",
+          "description": "Fork of Bento written in Vue 3 with TailwindCSS and Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-04-11T16:55:27Z",
+            "owner": "lewisdoesstuff",
+            "repo": "bento-next",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Startpage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vencord",
+          "description": "Cutest Discord client mod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:49:07Z",
+            "owner": "Vendicated",
+            "repo": "Vencord",
+            "stars": 13871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BetterDiscord",
+          "description": "Client modification for Discord with endless flexibility and addons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T05:45:35Z",
+            "owner": "BetterDiscord",
+            "repo": "BetterDiscord",
+            "stars": 9173
+          }
+        }
+      ],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Material Theme",
+          "description": "The most epic theme for VSC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T17:00:31Z",
+            "owner": "vira-soft",
+            "repo": "vira-assets",
+            "stars": 11311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Night Owl",
+          "description": "Dark theme for contrast for nighttime coding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-31T22:23:48Z",
+            "owner": "sdras",
+            "repo": "night-owl-vscode-theme",
+            "stars": 2957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokyo Night",
+          "description": "Clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-05T19:34:53Z",
+            "owner": "tokyo-night",
+            "repo": "tokyo-night-vscode-theme",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dracula",
+          "description": "Dracula for VSCode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:26:41Z",
+            "owner": "dracula",
+            "repo": "visual-studio-code",
+            "stars": 877
+          }
+        }
+      ],
+      "title": "VSCode"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ly",
+          "description": "Display manager with console UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-07-31T21:59:10Z",
+            "owner": "fairyglade",
+            "repo": "ly",
+            "stars": 7522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sddm",
+          "description": "QML based X11 and Wayland display manager.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "astronaut",
+              "description": "Modern looking sddm qt6 theme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2026-07-16T21:54:05Z",
+                "owner": "Keyitdev",
+                "repo": "sddm-astronaut-theme",
+                "stars": 3169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sugar Dark",
+              "description": "The sweetest dark theme around for SDDM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2023-04-26T00:32:28Z",
+                "owner": "MarianArlt",
+                "repo": "sddm-sugar-dark",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "corners",
+              "description": "Customizable SDDM theme that puts stuff on your screen corners.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2024-03-14T06:42:19Z",
+                "owner": "aczw",
+                "repo": "sddm-theme-corners",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tokyo Night",
+              "description": "Tokyo Night theme for SDDM.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "QML",
+                "last_commit": "2023-06-15T10:11:40Z",
+                "owner": "siddrs",
+                "repo": "tokyo-night-sddm",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sddm-themes",
+              "description": "Dynamics and highly customizable themes build from scratch for SDDM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2023-12-26T18:45:31Z",
+                "owner": "Rokin05",
+                "repo": "sddm-themes",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deepin",
+              "description": "Deepin style SDDM theme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2022-09-18T10:40:38Z",
+                "owner": "Match-Yang",
+                "repo": "sddm-deepin",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LentenRose",
+              "description": "Dark theme for SDDM, made with QML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "QML",
+                "last_commit": "2023-10-30T13:00:02Z",
+                "owner": "theophinetheodore",
+                "repo": "LentenRose",
+                "stars": 11
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T16:07:24Z",
+            "owner": "sddm",
+            "repo": "sddm",
+            "stars": 2329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightdm",
+          "description": "Lightweight, cross-desktop display manager.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Web Greeter",
+              "description": "Modern, visually appealing greeter for LightDM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-11T14:47:18Z",
+                "owner": "JezerM",
+                "repo": "web-greeter",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shikai",
+              "description": "Modern lightdm webkit2 theme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T02:34:37Z",
+                "owner": "TheWisker",
+                "repo": "Shikai",
+                "stars": 137
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T13:33:52Z",
+            "owner": "ubuntu",
+            "repo": "lightdm",
+            "stars": 982
+          }
+        }
+      ],
+      "title": "Display Manager"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Minegrub",
+          "description": "GRUB theme in Minecraft style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:41:28Z",
+            "owner": "Lxtharia",
+            "repo": "minegrub-theme",
+            "stars": 4580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grub2-themes",
+          "description": "Modern design GRUB theme collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T01:41:05Z",
+            "owner": "vinceliuice",
+            "repo": "grub2-themes",
+            "stars": 4565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matter",
+          "description": "Customizable GRUB theme inspired by Material Design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-25T13:23:28Z",
+            "owner": "mateosss",
+            "repo": "matter",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Matter",
+          "description": "Dark Matter GRUB Theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T09:23:46Z",
+            "owner": "VandalByte",
+            "repo": "darkmatter-grub2-theme",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poly dark",
+          "description": "Poly dark GRUB theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-24T02:55:19Z",
+            "owner": "shvchk",
+            "repo": "poly-dark",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tartarus",
+          "description": "Basic grub theme with material gruvbox style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-02T11:00:46Z",
+            "owner": "AllJavi",
+            "repo": "tartarus-grub",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tokyo Night",
+          "description": "GRUB theme using Tokyo Night color scheme based on Dracula GRUB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-22T14:28:11Z",
+            "owner": "mino29",
+            "repo": "tokyo-night-grub",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dracula",
+          "description": "Dracula GRUB theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-31T19:14:47Z",
+            "owner": "dracula",
+            "repo": "grub",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steam-big-picture",
+          "description": "Steam Big Picture inspired GRUB theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-09-12T20:39:42Z",
+            "owner": "arvigeus",
+            "repo": "steam-big-picture-grub-theme",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "GRUB"
+    },
+    {
+      "description": "Any helpful contribution is welcome, see CONTRIBUTING.",
+      "items": [],
+      "title": "Contribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:48:49.259Z",
+    "original_repository": "avtzis/awesome-linux-ricing",
+    "original_repository_sha": "8175fe591ed4ab10c96858d0a61f9cb6cde91dc8",
+    "enhanced_repository": "enhansome/enhansome-linux-ricing",
+    "enhanced_repository_description": null,
+    "title": "Awesome linux ricing with stars"
+  }
+}
