@@ -142,21 +142,21 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 
 ### Tiling
 
-* [sway](https://github.com/swaywm/sway) ⭐ 17,326 | 🐛 1,387 | 🌐 C | 📅 2026-09-14<sup>Wayland</sup> - Tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
-* [i3](https://github.com/i3/i3) ⭐ 10,567 | 🐛 374 | 🌐 C | 📅 2026-07-28<sup>X11</sup> - Tiling window manager for X11.
-* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,316 | 🐛 348 | 🌐 C | 📅 2026-06-19<sup>X11</sup> - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [sway](https://github.com/swaywm/sway) ⭐ 17,329 | 🐛 1,387 | 🌐 C | 📅 2026-09-14<sup>Wayland</sup> - Tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
+* [i3](https://github.com/i3/i3) ⭐ 10,568 | 🐛 374 | 🌐 C | 📅 2026-07-28<sup>X11</sup> - Tiling window manager for X11.
+* [bspwm](https://github.com/baskerville/bspwm) ⭐ 8,315 | 🐛 348 | 🌐 C | 📅 2026-06-19<sup>X11</sup> - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [leftwm](https://github.com/leftwm/leftwm) ⭐ 3,047 | 🐛 118 | 🌐 Rust | 📅 2026-07-21<sup>X11</sup> - Tiling window manager written in Rust for advanced.
 * [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) ⭐ 1,165 | 🐛 133 | 🌐 C++ | 📅 2026-09-03<sup>X11</sup> - Manual tiling window manager for X.
 
 ### Dynamic
 
-* [Ηyprland](https://github.com/hyprwm/Hyprland) ⭐ 38,566 | 🐛 195 | 🌐 C++ | 📅 2026-09-15<sup>Wayland</sup> - Highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-* [niri](https://github.com/YaLTeR/niri) ⭐ 27,757 | 🐛 481 | 🌐 Rust | 📅 2026-09-15<sup>Wayland</sup> - Scrollable-tiling Wayland compositor, heavily inspired by PaperWM.
-* [awesome](https://github.com/awesomeWM/awesome) ⭐ 6,958 | 🐛 571 | 🌐 Lua | 📅 2026-08-28<sup>X11</sup> - Highly configurable, next generation framework window manager for X.
+* [Ηyprland](https://github.com/hyprwm/Hyprland) ⭐ 38,583 | 🐛 195 | 🌐 C++ | 📅 2026-09-15<sup>Wayland</sup> - Highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+* [niri](https://github.com/YaLTeR/niri) ⭐ 27,791 | 🐛 483 | 🌐 Rust | 📅 2026-09-17<sup>Wayland</sup> - Scrollable-tiling Wayland compositor, heavily inspired by PaperWM.
+* [awesome](https://github.com/awesomeWM/awesome) ⭐ 6,959 | 🐛 571 | 🌐 Lua | 📅 2026-08-28<sup>X11</sup> - Highly configurable, next generation framework window manager for X.
 * [QTile](https://github.com/qtile/qtile) ⭐ 5,298 | 🐛 209 | 🌐 Python | 📅 2026-09-09<sup>X11 + Wayland</sup> - Full-featured, hackable tiling window manager.
 * [river](https://github.com/riverwm/river) ⭐ 4,282 | 🐛 67 | 🌐 Zig | 📅 2026-09-13<sup>Wayland</sup> - Dynamic tiling Wayland compositor with flexible runtime configuration.
-* [MangoWC](https://github.com/DreamMaoMao/mangowc) ⭐ 3,633 | 🐛 212 | 🌐 C | 📅 2026-09-16<sup>Wayland</sup> - Modern, lightweight, high-performance Wayland compositor built on dwl.
-* [XMonad](https://github.com/xmonad/xmonad) ⭐ 3,593 | 🐛 63 | 🌐 Haskell | 📅 2026-06-28<sup>X11</sup> - Small but functional ICCCM-compliant tiling window manager.
+* [MangoWC](https://github.com/DreamMaoMao/mangowc) ⭐ 3,640 | 🐛 215 | 🌐 C | 📅 2026-09-17<sup>Wayland</sup> - Modern, lightweight, high-performance Wayland compositor built on dwl.
+* [XMonad](https://github.com/xmonad/xmonad) ⭐ 3,595 | 🐛 63 | 🌐 Haskell | 📅 2026-06-28<sup>X11</sup> - Small but functional ICCCM-compliant tiling window manager.
 * [ragnar](https://github.com/cococry/ragnar) ⭐ 1,252 | 🐛 16 | 🌐 C | 📅 2026-09-10<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
 * [dwm](https://dwm.suckless.org/)<sup>X11</sup> - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
 
@@ -168,15 +168,15 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 </details>
 <br/>
 
-* [Dracula](https://github.com/dracula/dracula-theme) ⭐ 23,582 | 🐛 11 | 📅 2026-09-01 - Dark spooky theme.
-* [Catppuccin](https://github.com/catppuccin/catppuccin) ⭐ 19,770 | 🐛 124 | 🌐 TypeScript | 📅 2026-07-25 - Soothing pastel theme for the high-spirited.
-* [Gruvbox](https://github.com/morhetz/gruvbox) ⭐ 15,743 | 🐛 159 | 🌐 Vim Script | 📅 2026-06-08 - Retro groove color scheme.
+* [Dracula](https://github.com/dracula/dracula-theme) ⭐ 23,583 | 🐛 11 | 📅 2026-09-01 - Dark spooky theme.
+* [Catppuccin](https://github.com/catppuccin/catppuccin) ⭐ 19,772 | 🐛 125 | 🌐 TypeScript | 📅 2026-07-25 - Soothing pastel theme for the high-spirited.
+* [Gruvbox](https://github.com/morhetz/gruvbox) ⭐ 15,745 | 🐛 159 | 🌐 Vim Script | 📅 2026-06-08 - Retro groove color scheme.
 * [Nord](https://github.com/nordtheme/nord) ⭐ 6,885 | 🐛 84 | 🌐 SCSS | 📅 2023-10-18 - Arctic, north-bluish color palette.
-* [Kanagawa](https://github.com/rebelot/kanagawa.nvim) ⭐ 6,391 | 🐛 91 | 🌐 Lua | 📅 2026-05-10 - Dark color scheme inspired by the famous painting.
-* [Everforest](https://github.com/sainnhe/everforest) ⭐ 4,215 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-08 - Comfortable and pleasant green forest color scheme.
+* [Kanagawa](https://github.com/rebelot/kanagawa.nvim) ⭐ 6,393 | 🐛 91 | 🌐 Lua | 📅 2026-05-10 - Dark color scheme inspired by the famous painting.
+* [Everforest](https://github.com/sainnhe/everforest) ⭐ 4,218 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-08 - Comfortable and pleasant green forest color scheme.
 * [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme#other-ports) ⭐ 2,415 | 🐛 16 | 📅 2025-02-05 - Clean, dark theme that celebrates the lights of Tokyo at night.
 * [Sweet](https://github.com/EliverLara/Sweet) ⭐ 1,706 | 🐛 80 | 🌐 CSS | 📅 2026-08-13 - Colorful candy theme.
-* [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) ⭐ 1,610 | 🐛 5 | 📅 2026-07-05 - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+* [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) ⭐ 1,611 | 🐛 5 | 📅 2026-07-05 - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 * [Everblush](https://github.com/Everblush/everblush) ⭐ 161 | 🐛 0 | 📅 2025-05-10 - Dark, vibrant and beautiful Colorscheme.
 * [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus) ⭐ 81 | 🐛 0 | 🌐 Lua | 📅 2023-10-19 - Dark, dim, blue, purple... beautiful.
 * [Whale](https://github.com/anufrievroman/whale) ⭐ 74 | 🐛 0 | 🌐 CSS | 📅 2025-10-02 - Dark theme inspired by Ark and Nord.
@@ -195,14 +195,14 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 
 Some great GitHub repos with wallpaper collections by:
 
-* [dharmx](https://github.com/dharmx/walls) ⭐ 8,978 | 🐛 5 | 📅 2024-03-06
+* [dharmx](https://github.com/dharmx/walls) ⭐ 8,987 | 🐛 5 | 📅 2024-03-06
 * [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers) ⭐ 3,526 | 🐛 10 | 📅 2025-06-17
-* [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) ⭐ 1,859 | 🐛 2 | 🌐 Python | 📅 2025-12-31<sup>Nord</sup>
-* [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) ⭐ 1,230 | 🐛 0 | 🌐 Shell | 📅 2026-07-20<sup>Gruvbox</sup>
+* [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) ⭐ 1,861 | 🐛 2 | 🌐 Python | 📅 2025-12-31<sup>Nord</sup>
+* [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) ⭐ 1,233 | 🐛 0 | 🌐 Shell | 📅 2026-07-20<sup>Gruvbox</sup>
 * [zhichaoh](https://github.com/zhichaoh/catppuccin-wallpapers) ⭐ 903 | 🐛 0 | 📅 2024-04-17<sup>Catppuccin</sup>
 * [FrenzyExists](https://github.com/FrenzyExists/wallpapers) ⭐ 777 | 🐛 0 | 🌐 Shell | 📅 2022-12-02
 * [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) ⚠️ Archived<sup>Everforest</sup>
-* [Axenide](https://github.com/Axenide/Wallpapers) ⭐ 164 | 🐛 0 | 📅 2025-12-09
+* [Axenide](https://github.com/Axenide/Wallpapers) ⭐ 165 | 🐛 0 | 📅 2025-12-09
 * [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers) ⭐ 97 | 🐛 0 | 📅 2024-08-23
 * [er2de2](https://github.com/er2de2/catppuccin_walls) ⭐ 97 | 🐛 2 | 📅 2026-04-12<sup>Catppuccin</sup>
 * [gboncoffee](https://github.com/gboncoffee/wallpapers) ⭐ 95 | 🐛 0 | 📅 2026-01-09
@@ -211,9 +211,9 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Utilities
 
-* [mpvpaper](https://github.com/GhostNaN/mpvpaper) ⭐ 1,611 | 🐛 17 | 🌐 C | 📅 2026-08-29<sup>Wayland</sup> - Video wallpaper program for wlroots based wayland compositors.
+* [mpvpaper](https://github.com/GhostNaN/mpvpaper) ⭐ 1,614 | 🐛 17 | 🌐 C | 📅 2026-08-29<sup>Wayland</sup> - Video wallpaper program for wlroots based wayland compositors.
 * [hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,353 | 🐛 51 | 🌐 C++ | 📅 2026-08-13<sup>Wayland</sup> - Fast Wayland wallpaper utility with IPC controls.
-* [swaybg](https://github.com/swaywm/swaybg) ⭐ 811 | 🐛 14 | 🌐 C | 📅 2026-09-10<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
+* [swaybg](https://github.com/swaywm/swaybg) ⭐ 812 | 🐛 14 | 🌐 C | 📅 2026-09-10<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
 * [awww](https://codeberg.org/LGFae/awww)<sup>Wayland</sup> - Efficient animated wallpaper daemon for wayland, controlled at runtime.
 
 ## Font
@@ -247,15 +247,15 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Monospace Fonts
 
-* [FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,019 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28<sup>ligatures</sup> - Monospaced font with programming ligatures.
-* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,890 | 🐛 163 | 🌐 Python | 📅 2025-03-06<sup>ligatures</sup> - Fun font designed to enchance the modern look and feel of the \*\*\* Terminal.
-* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,755 | 🐛 102 | 🌐 JavaScript | 📅 2026-09-13<sup>ligatures</sup> - Versatile typeface for code, from code.
-* [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,033 | 🐛 206 | 🌐 Shell | 📅 2025-01-31<sup>ligatures</sup> - Τypeface made for developers.
+* [FiraCode](https://github.com/tonsky/FiraCode) ⭐ 82,020 | 🐛 428 | 🌐 Clojure | 📅 2026-07-28<sup>ligatures</sup> - Monospaced font with programming ligatures.
+* [Cascadia Code](https://github.com/microsoft/cascadia-code) ⭐ 27,894 | 🐛 163 | 🌐 Python | 📅 2025-03-06<sup>ligatures</sup> - Fun font designed to enchance the modern look and feel of the \*\*\* Terminal.
+* [Iosevka](https://github.com/be5invis/Iosevka) ⭐ 22,760 | 🐛 102 | 🌐 JavaScript | 📅 2026-09-17<sup>ligatures</sup> - Versatile typeface for code, from code.
+* [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) ⭐ 13,037 | 🐛 206 | 🌐 Shell | 📅 2025-01-31<sup>ligatures</sup> - Τypeface made for developers.
 * [monoid](https://github.com/larsenwork/monoid) ⭐ 7,955 | 🐛 77 | 🌐 Python | 📅 2020-10-26<sup>ligatures</sup> - Customisable coding font with alternates, ligatures and contextual positioning.
-* [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,713 | 🐛 44 | 🌐 Python | 📅 2022-02-19<sup>ligatures</sup> - Code font with monospaced ligatures.
-* [Victor Mono](https://github.com/rubjo/victor-mono) ⭐ 3,802 | 🐛 7 | 🌐 Vue | 📅 2026-07-18<sup>ligatures</sup> - Free programming font with cursive italics and ligatures.
+* [Hasklig](https://github.com/i-tu/Hasklig) ⭐ 5,712 | 🐛 44 | 🌐 Python | 📅 2022-02-19<sup>ligatures</sup> - Code font with monospaced ligatures.
+* [Victor Mono](https://github.com/rubjo/victor-mono) ⭐ 3,803 | 🐛 7 | 🌐 Vue | 📅 2026-07-18<sup>ligatures</sup> - Free programming font with cursive italics and ligatures.
 * [DejaVuCode](https://github.com/SSNikolaevich/DejaVuSansCode) ⭐ 482 | 🐛 10 | 🌐 Perl | 📅 2019-05-06<sup>ligatures</sup> - Monospaced font with programming ligatures based on DejaVu Sans Mono.
-* [Gohufont](https://github.com/hchargois/gohufont) ⭐ 400 | 🐛 7 | 🌐 Python | 📅 2017-06-26 - Monospace bitmap font.
+* [Gohufont](https://github.com/hchargois/gohufont) ⭐ 401 | 🐛 7 | 🌐 Python | 📅 2017-06-26 - Monospace bitmap font.
 * [Operator-caska](https://github.com/Anant-mishra1729/Operator-caska-Font)<sup>ligatures</sup> - Font with ligature and cursive support, combination of both CaskaydiaCove Nerd Font and Operator Mono.
 
 ### Nerd Fonts
@@ -266,9 +266,9 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,627 | 🐛 21 | 🌐 CSS | 📅 2026-09-05 - Collection of nerd fonts.
-* [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) ⭐ 64,627 | 🐛 21 | 🌐 CSS | 📅 2026-09-05 - Patch your own fonts.
-* [getnf](https://github.com/getnf/getnf) ⭐ 1,266 | 🐛 1 | 🌐 Shell | 📅 2026-09-12 - Helpful tool to install Nerd Fonts.
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) ⭐ 64,640 | 🐛 21 | 🌐 CSS | 📅 2026-09-05 - Collection of nerd fonts.
+* [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) ⭐ 64,640 | 🐛 21 | 🌐 CSS | 📅 2026-09-05 - Patch your own fonts.
+* [getnf](https://github.com/getnf/getnf) ⭐ 1,267 | 🐛 1 | 🌐 Shell | 📅 2026-09-12 - Helpful tool to install Nerd Fonts.
 
 > \[!TIP]
 > In order to make use of glyphs, you should at least have one nerd font installed on your system. Setting your default font as a nerd font is usually not required, as it may show glyphs smaller than they are supposed to be. However, you may need to include a nerd font family along with your default font, when configuring fonts for an application, in order to display the glyphs properly.
@@ -282,12 +282,12 @@ Some great GitHub repos with wallpaper collections by:
 <br/>
 
 * [Polybar](https://github.com/polybar/polybar) ⭐ 15,349 | 🐛 234 | 🌐 C++ | 📅 2025-09-24<sup>X11</sup> - Fast and easy-to-use status bar.
-* [Eww](https://github.com/elkowar/eww) ⭐ 12,673 | 🐛 379 | 🌐 Rust | 📅 2026-07-17<sup>X11 + Wayland</sup> - ElKowars wacky widgets.
-* [Waybar](https://github.com/Alexays/Waybar) ⭐ 11,963 | 🐛 744 | 🌐 C++ | 📅 2026-09-14<sup>Wayland</sup> - Highly customizable Wayland bar.
-* [ags](https://github.com/Aylur/ags) ⭐ 3,095 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-08<sup>X11 + Wayland</sup> - Very customizable and extensible shell.
+* [Eww](https://github.com/elkowar/eww) ⭐ 12,674 | 🐛 379 | 🌐 Rust | 📅 2026-07-17<sup>X11 + Wayland</sup> - ElKowars wacky widgets.
+* [Waybar](https://github.com/Alexays/Waybar) ⭐ 11,969 | 🐛 742 | 🌐 C++ | 📅 2026-09-17<sup>Wayland</sup> - Highly customizable Wayland bar.
+* [ags](https://github.com/Aylur/ags) ⭐ 3,096 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-08<sup>X11 + Wayland</sup> - Very customizable and extensible shell.
 * [lemonbar](https://github.com/LemonBoy/bar) ⭐ 1,688 | 🐛 21 | 🌐 C | 📅 2024-09-02<sup>X11</sup> - Featherweight, lemon-scented, bar based on xcb.
 * [fabric](https://github.com/Fabric-Development/fabric/) ⭐ 1,370 | 🐛 7 | 🌐 Python | 📅 2026-09-10<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
-* [gBar](https://github.com/scorpion-26/gBar) ⭐ 539 | 🐛 38 | 🌐 C++ | 📅 2024-12-17<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
+* [gBar](https://github.com/scorpion-26/gBar) ⭐ 540 | 🐛 38 | 🌐 C++ | 📅 2024-12-17<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
 * [Quickshell](https://quickshell.org/)<sup>X11 + Wayland</sup> - Toolkit for building status bars, widgets, lockscreens, and other desktop components using QtQuick.
 
 > \[!NOTE]
@@ -295,9 +295,9 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Cursor
 
-* [Bibata](https://github.com/ful1e5/Bibata_Cursor) ⭐ 4,085 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Open source, compact, and material designed cursor set.
+* [Bibata](https://github.com/ful1e5/Bibata_Cursor) ⭐ 4,095 | 🐛 18 | 🌐 Shell | 📅 2024-06-18 - Open source, compact, and material designed cursor set.
 * [Apple](https://github.com/ful1e5/apple_cursor) ⭐ 2,044 | 🐛 21 | 🌐 Shell | 📅 2024-09-28 - Cursor inspired by Apple's macOS.
-* [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 935 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 - Cursor inspired by Qogir icon theme.
+* [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 933 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 - Cursor inspired by Qogir icon theme.
 * [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) ⭐ 478 | 🐛 12 | 🌐 Shell | 📅 2024-07-27 - Extended KDE cursor.
 * [Vimix](https://github.com/vinceliuice/Vimix-cursors) ⭐ 455 | 🐛 6 | 🌐 Shell | 📅 2022-08-13 - Cursor inspired by Material Design.
 * [Fuchsia](https://github.com/ful1e5/fuchsia-cursor) ⭐ 111 | 🐛 3 | 🌐 Shell | 📅 2024-08-14 - Cursor inspired by Google's FuchsiaOS.
@@ -308,13 +308,13 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Icons
 
-* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,084 | 🐛 587 | 🌐 Shell | 📅 2026-08-01 - Pixel perfect icon theme.
+* [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) ⭐ 8,087 | 🐛 588 | 🌐 Shell | 📅 2026-08-01 - Pixel perfect icon theme.
 * [Tela](https://github.com/vinceliuice/Tela-icon-theme) ⭐ 1,875 | 🐛 104 | 🌐 Shell | 📅 2026-08-10 - Flat colorful Design icon theme.
-* [Flat Remix](https://github.com/daniruiz/Flat-Remix) ⭐ 1,762 | 🐛 6 | 🌐 Makefile | 📅 2025-11-19 - Icon theme inspired by material design.
+* [Flat Remix](https://github.com/daniruiz/Flat-Remix) ⭐ 1,763 | 🐛 6 | 🌐 Makefile | 📅 2025-11-19 - Icon theme inspired by material design.
 * [Candy](https://github.com/EliverLara/candy-icons) ⭐ 1,316 | 🐛 152 | 📅 2026-03-06 - Sweet gradient icons.
 * [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) ⭐ 1,164 | 🐛 57 | 🌐 Shell | 📅 2026-08-29 - Icon theme with a colorful and playful design.
-* [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 935 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 - Colorful design icon theme.
-* [suru-plus](https://github.com/gusbemacbe/suru-plus) ⭐ 391 | 🐛 16 | 🌐 Shell | 📅 2026-05-25 - Cyberpunk, elegant, futuristic and Papirus-like third-party icons theme.
+* [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) ⭐ 933 | 🐛 49 | 🌐 Shell | 📅 2025-11-04 - Colorful design icon theme.
+* [suru-plus](https://github.com/gusbemacbe/suru-plus) ⭐ 390 | 🐛 16 | 🌐 Shell | 📅 2026-05-25 - Cyberpunk, elegant, futuristic and Papirus-like third-party icons theme.
 * [BeautyLine](https://github.com/gvolpe/BeautyLine) ⭐ 18 | 🐛 1 | 📅 2022-01-16 - Outlined icons designed to have unified look and comprehensive coverage.
 
 ## Application Launcher
@@ -325,13 +325,13 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [Rofi](https://github.com/davatorium/rofi) ⭐ 16,394 | 🐛 115 | 🌐 C | 📅 2026-09-06<sup>X11 + [Wayland](https://github.com/lbonn/rofi) ⭐ 1,328 | 🐛 31 | 🌐 C | 📅 2025-09-12</sup> - Window switcher, application launcher and dmenu replacement.
+* [Rofi](https://github.com/davatorium/rofi) ⭐ 16,397 | 🐛 116 | 🌐 C | 📅 2026-09-06<sup>X11 + [Wayland](https://github.com/lbonn/rofi) ⭐ 1,328 | 🐛 31 | 🌐 C | 📅 2025-09-12</sup> - Window switcher, application launcher and dmenu replacement.
   * [custom confs](https://github.com/adi1090x/rofi) ⭐ 8,784 | 🐛 67 | 🌐 Shell | 📅 2026-05-31 - Huge collection of Rofi based custom Applets, Launchers & Powermenus by adi1090x
   * [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) ⭐ 490 | 🐛 14 | 🌐 Shell | 📅 2023-09-23 - Bash script using nmcli and rofi to make a wifi menu.
-* [vicinae](https://github.com/vicinaehq/vicinae) ⭐ 9,790 | 🐛 208 | 🌐 C++ | 📅 2026-09-16 - Focused launcher for your desktop — native, fast, extensible.
-* [Ulauncher](https://github.com/Ulauncher/Ulauncher/) ⭐ 4,515 | 🐛 86 | 🌐 Python | 📅 2026-09-13<sup>X11 + Wayland</sup> - Feature rich application Launcher.
+* [vicinae](https://github.com/vicinaehq/vicinae) ⭐ 9,805 | 🐛 223 | 🌐 C++ | 📅 2026-09-17 - Focused launcher for your desktop — native, fast, extensible.
+* [Ulauncher](https://github.com/Ulauncher/Ulauncher/) ⭐ 4,512 | 🐛 87 | 🌐 Python | 📅 2026-09-16<sup>X11 + Wayland</sup> - Feature rich application Launcher.
 * [tofi](https://github.com/philj56/tofi) ⭐ 1,403 | 🐛 117 | 🌐 C | 📅 2024-12-30<sup>Wayland</sup> - Tiny dynamic menu for Wayland.
-* [Anyrun](https://github.com/Kirottu/anyrun) ⭐ 1,306 | 🐛 73 | 🌐 Rust | 📅 2026-08-14<sup>Wayland</sup> - Wayland native, highly customizable runner.
+* [Anyrun](https://github.com/Kirottu/anyrun) ⭐ 1,307 | 🐛 73 | 🌐 Rust | 📅 2026-08-14<sup>Wayland</sup> - Wayland native, highly customizable runner.
 * [Gauntlet](https://github.com/project-gauntlet/gauntlet) ⭐ 821 | 🐛 19 | 🌐 Rust | 📅 2025-10-02<sup>X11</sup> - Raycast-inspired open-source application launcher with React-based plugins.
 * [wofi](https://gitlab.com/dgirault/wofi)<sup>Wayland</sup> - Launcher/menu program for wlroots based wayland compositors.
 * [fuzzel](https://codeberg.org/dnkl/fuzzel)<sup>Wayland</sup> - Application launcher for wlroots based Wayland compositors, similar to rofi's drun mode.
@@ -344,27 +344,27 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [Dunst](https://github.com/dunst-project/dunst) ⭐ 5,588 | 🐛 124 | 🌐 C | 📅 2026-08-11<sup>X11 + Wayland</sup> - Lightweight and customizable notification daemon.
-* [mako](https://github.com/emersion/mako) ⭐ 3,257 | 🐛 134 | 🌐 C | 📅 2026-06-30<sup>Wayland</sup> - Lightweight Wayland notification daemon.
+* [Dunst](https://github.com/dunst-project/dunst) ⭐ 5,590 | 🐛 124 | 🌐 C | 📅 2026-08-11<sup>X11 + Wayland</sup> - Lightweight and customizable notification daemon.
+* [mako](https://github.com/emersion/mako) ⭐ 3,258 | 🐛 134 | 🌐 C | 📅 2026-06-30<sup>Wayland</sup> - Lightweight Wayland notification daemon.
 * [SwayNC](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,581 | 🐛 114 | 🌐 Vala | 📅 2026-06-25<sup>Wayland</sup> - Simple notification daemon with a GTK gui for notifications and the control center.
 
 ## Widgets
 
-* [conky](https://github.com/brndnmtthws/conky) ⭐ 8,512 | 🐛 98 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor.
-* [Kando](https://github.com/kando-menu/kando) ⭐ 6,349 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-16 - The Cross-Platform Pie Menu.
+* [conky](https://github.com/brndnmtthws/conky) ⭐ 8,513 | 🐛 99 | 🌐 C++ | 📅 2026-08-07 - Light-weight system monitor.
+* [Kando](https://github.com/kando-menu/kando) ⭐ 6,351 | 🐛 69 | 🌐 TypeScript | 📅 2026-09-16 - The Cross-Platform Pie Menu.
 * [GLava](https://github.com/jarcode-foss/glava) ⭐ 1,274 | 🐛 99 | 🌐 C | 📅 2024-01-19 -OpenGL audio spectrum visualizer.
 * [wallpaper-cava](https://github.com/rs-pro0/wallpaper-cava) ⭐ 49 | 🐛 4 | 🌐 Rust | 📅 2026-06-15 - Display cava on top of your wallpaper.
 
 ## Logout Menu
 
-* [rofi](https://github.com/davatorium/rofi) ⭐ 16,394 | 🐛 115 | 🌐 C | 📅 2026-09-06<sup>X11 + [Wayland](https://github.com/lbonn/rofi) ⭐ 1,328 | 🐛 31 | 🌐 C | 📅 2025-09-12</sup> - Window switcher, application launcher and dmenu replacement. Can be used to create logout menu.
+* [rofi](https://github.com/davatorium/rofi) ⭐ 16,397 | 🐛 116 | 🌐 C | 📅 2026-09-06<sup>X11 + [Wayland](https://github.com/lbonn/rofi) ⭐ 1,328 | 🐛 31 | 🌐 C | 📅 2025-09-12</sup> - Window switcher, application launcher and dmenu replacement. Can be used to create logout menu.
 * [wlogout](https://github.com/ArtsyMacaw/wlogout) ⭐ 1,063 | 🐛 45 | 🌐 C | 📅 2024-07-04<sup>Wayland</sup> - Wayland based logout menu
 
 ## Screen Lock
 
-* [hyprlock](https://github.com/hyprwm/hyprlock) ⭐ 1,655 | 🐛 195 | 🌐 C++ | 📅 2026-08-11<sup>Wayland</sup> - Hyprland's GPU-accelerated screen locking utility
+* [hyprlock](https://github.com/hyprwm/hyprlock) ⭐ 1,655 | 🐛 196 | 🌐 C++ | 📅 2026-08-11<sup>Wayland</sup> - Hyprland's GPU-accelerated screen locking utility
 * [swaylock](https://github.com/swaywm/swaylock) ⭐ 1,221 | 🐛 101 | 🌐 C | 📅 2026-07-09<sup>Wayland</sup> - Screen locker for Wayland.
-  * [swaylock-effects](https://github.com/mortie/swaylock-effects) ⭐ 863 | 🐛 61 | 🌐 C | 📅 2023-11-28 - Swaylock, with fancy effects
+  * [swaylock-effects](https://github.com/mortie/swaylock-effects) ⭐ 865 | 🐛 61 | 🌐 C | 📅 2023-11-28 - Swaylock, with fancy effects
 * [i3lock](https://github.com/i3/i3lock) ⭐ 995 | 🐛 16 | 🌐 C | 📅 2025-10-31<sup>X11</sup> - Improved screen locker.
 
 ## Terminal
@@ -378,26 +378,26 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Emulator
 
-* [alacritty](https://github.com/alacritty/alacritty) ⭐ 65,733 | 🐛 342 | 🌐 Rust | 📅 2026-08-31 - Cross-platform, OpenGL terminal emulator.
-* [ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,166 | 🐛 247 | 🌐 Zig | 📅 2026-09-15 - Fast, feature-rich, and cross-platform terminal emulator
-* [kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,916 | 🐛 13 | 🌐 Python | 📅 2026-09-16 - Cross-platform, fast, feature-rich, GPU based terminal.
-* [wezterm](https://github.com/wez/wezterm) ⭐ 28,916 | 🐛 1,850 | 🌐 Rust | 📅 2026-09-15 - GPU-accelerated cross-platform terminal emulator and multiplexer.
+* [alacritty](https://github.com/alacritty/alacritty) ⭐ 65,745 | 🐛 341 | 🌐 Rust | 📅 2026-08-31 - Cross-platform, OpenGL terminal emulator.
+* [ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,208 | 🐛 250 | 🌐 Zig | 📅 2026-09-16 - Fast, feature-rich, and cross-platform terminal emulator
+* [kitty](https://github.com/kovidgoyal/kitty) ⭐ 34,937 | 🐛 13 | 🌐 Python | 📅 2026-09-17 - Cross-platform, fast, feature-rich, GPU based terminal.
+* [wezterm](https://github.com/wez/wezterm) ⭐ 28,926 | 🐛 1,850 | 🌐 Rust | 📅 2026-09-15 - GPU-accelerated cross-platform terminal emulator and multiplexer.
 * [st](https://github.com/siduck/st) ⭐ 749 | 🐛 5 | 🌐 C | 📅 2026-07-19 - Snazzy terminal (suckless + beautiful)
 * [foot](https://codeberg.org/dnkl/foot) - Fast, lightweight and minimalistic Wayland terminal emulator.
 
 ### Shell
 
-* [nushell](https://github.com/nushell/nushell) ⭐ 40,519 | 🐛 1,445 | 🌐 Rust | 📅 2026-09-16 - New type of shell.
-* [fish](https://github.com/fish-shell/fish-shell) ⭐ 34,202 | 🐛 564 | 🌐 Rust | 📅 2026-09-15 - User-friendly shell with autosuggestions and syntax highlighting.
-  * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,389 | 🐛 4 | 🌐 Shell | 📅 2026-09-09 - The Fish Shell Framework.
+* [nushell](https://github.com/nushell/nushell) ⭐ 40,520 | 🐛 1,437 | 🌐 Rust | 📅 2026-09-16 - New type of shell.
+* [fish](https://github.com/fish-shell/fish-shell) ⭐ 34,204 | 🐛 564 | 🌐 Rust | 📅 2026-09-15 - User-friendly shell with autosuggestions and syntax highlighting.
+  * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) ⭐ 11,390 | 🐛 4 | 🌐 Shell | 📅 2026-09-09 - The Fish Shell Framework.
 * [bash](https://www.gnu.org/software/bash/) - Default shell for most distros.
-  * [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,731 | 🐛 84 | 🌐 Shell | 📅 2026-09-08 - Line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash.
+  * [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,736 | 🐛 84 | 🌐 Shell | 📅 2026-09-08 - Line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash.
 * [zsh](https://zsh.sourceforge.io/) - Powerful shell with scripting capabilities.
-  * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) ⭐ 189,746 | 🐛 311 | 🌐 Shell | 📅 2026-09-16 - Delightful, open source, community-driven framework for managing your Zsh configuration.
+  * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) ⭐ 189,764 | 🐛 313 | 🌐 Shell | 📅 2026-09-16 - Delightful, open source, community-driven framework for managing your Zsh configuration.
   * [prezto](https://github.com/sorin-ionescu/prezto) ⭐ 14,571 | 🐛 198 | 🌐 Shell | 📅 2026-04-24 - Popular configuration framework for Zsh.
   * [Antigen](https://github.com/zsh-users/antigen) ⭐ 8,356 | 🐛 98 | 🌐 Shell | 📅 2026-07-15 - Popular plugin manager for Zsh.
-  * [zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,840 | 🐛 108 | 🌐 Shell | 📅 2026-09-16 - Flexible and fast ZSH plugin manager.
-  * [zimfw](https://github.com/zimfw/zimfw) ⭐ 4,688 | 🐛 24 | 🌐 Shell | 📅 2026-08-17 - Modular, customizable, and blazing fast Zsh framework.
+  * [zinit](https://github.com/zdharma-continuum/zinit) ⭐ 4,842 | 🐛 108 | 🌐 Shell | 📅 2026-09-16 - Flexible and fast ZSH plugin manager.
+  * [zimfw](https://github.com/zimfw/zimfw) ⭐ 4,689 | 🐛 24 | 🌐 Shell | 📅 2026-08-17 - Modular, customizable, and blazing fast Zsh framework.
   * [zgen](https://github.com/tarjoilija/zgen) ⭐ 1,527 | 🐛 41 | 🌐 Shell | 📅 2021-07-21 - Lightweight and simple plugin manager for ZSH.
   * [zap](https://github.com/zap-zsh/zap) ⭐ 1,174 | 🐛 13 | 🌐 Shell | 📅 2026-03-01 - Minimal zsh plugin manager.
 
@@ -409,9 +409,9 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [Starship](https://github.com/starship/starship) ⭐ 59,912 | 🐛 1,048 | 🌐 Rust | 📅 2026-09-15 - Minimal, blazing-fast, and infinitely customizable prompt.
-* [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,107 | 🐛 150 | 🌐 Shell | 📅 2026-09-14<sup>zsh</sup> - Theme for zsh emphasizing speed, flexibility and out-of-the-box experience.
-* [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,467 | 🐛 7 | 🌐 Go | 📅 2026-09-14 - The most customisable and low-latency cross platform/shell prompt renderer.
+* [Starship](https://github.com/starship/starship) ⭐ 59,922 | 🐛 1,049 | 🌐 Rust | 📅 2026-09-17 - Minimal, blazing-fast, and infinitely customizable prompt.
+* [powerlevel10k](https://github.com/romkatv/powerlevel10k) ⭐ 55,114 | 🐛 150 | 🌐 Shell | 📅 2026-09-14<sup>zsh</sup> - Theme for zsh emphasizing speed, flexibility and out-of-the-box experience.
+* [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 23,470 | 🐛 8 | 🌐 Go | 📅 2026-09-16 - The most customisable and low-latency cross platform/shell prompt renderer.
 * [Pure](https://github.com/sindresorhus/pure) ⭐ 14,418 | 🐛 0 | 🌐 Shell | 📅 2026-07-16<sup>zsh</sup> - Pretty, minimal and fast ZSH prompt.
 * [trueline](https://github.com/petobens/trueline) ⭐ 397 | 🐛 12 | 🌐 Shell | 📅 2026-08-25<sup>bash</sup> - Fast and extensible bash powerline prompt with true color and fancy icon support.
 * [roundy](https://github.com/nullxception/roundy) ⚠️ Archived<sup>zsh</sup> - Fast, cute, and-of-course, roundy prompt-theme for Zsh.
@@ -424,9 +424,9 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [tmux](https://github.com/tmux/tmux) ⭐ 49,284 | 🐛 40 | 🌐 C | 📅 2026-09-15 - Terminal multiplexer with a focus on simplicity and productivity.
+* [tmux](https://github.com/tmux/tmux) ⭐ 49,304 | 🐛 43 | 🌐 C | 📅 2026-09-17 - Terminal multiplexer with a focus on simplicity and productivity.
   * [tmux-plugins](https://github.com/orgs/tmux-plugins/repositories) - Collection of useful tmux plugins.
-* [zellij](https://github.com/zellij-org/zellij) ⭐ 35,427 | 🐛 1,922 | 🌐 Rust | 📅 2026-09-14 - Terminal workspace with batteries included.
+* [zellij](https://github.com/zellij-org/zellij) ⭐ 35,438 | 🐛 1,925 | 🌐 Rust | 📅 2026-09-14 - Terminal workspace with batteries included.
 * [byobu](https://www.byobu.org/home) - Text-based window manager and terminal multiplexer.
 * [GNU Screen](https://www.gnu.org/software/screen/) - Full-screen window manager that multiplexes a physical terminal between several processes.
 
@@ -434,39 +434,39 @@ Some great GitHub repos with wallpaper collections by:
 
 #### File Manager
 
-* [yazi](https://github.com/sxyazi/yazi) ⭐ 42,225 | 🐛 65 | 🌐 Rust | 📅 2026-09-15 - Blazing fast terminal file manager written in Rust.
-* [superfile](https://github.com/yorukot/superfile) ⭐ 23,254 | 🐛 269 | 🌐 Go | 📅 2026-09-15 - Pretty fancy and modern terminal file manager.
-* [nnn](https://github.com/jarun/nnn) ⭐ 21,881 | 🐛 4 | 🌐 C | 📅 2026-09-15 - Tiny, small and incredibly fast file manager for the terminal.
-* [ranger](https://github.com/ranger/ranger) ⭐ 17,403 | 🐛 896 | 🌐 Python | 📅 2026-09-09 - VIM-inspired file manager for the console.
+* [yazi](https://github.com/sxyazi/yazi) ⭐ 42,241 | 🐛 64 | 🌐 Rust | 📅 2026-09-16 - Blazing fast terminal file manager written in Rust.
+* [superfile](https://github.com/yorukot/superfile) ⭐ 23,265 | 🐛 269 | 🌐 Go | 📅 2026-09-16 - Pretty fancy and modern terminal file manager.
+* [nnn](https://github.com/jarun/nnn) ⭐ 21,885 | 🐛 1 | 🌐 C | 📅 2026-09-16 - Tiny, small and incredibly fast file manager for the terminal.
+* [ranger](https://github.com/ranger/ranger) ⭐ 17,405 | 🐛 896 | 🌐 Python | 📅 2026-09-09 - VIM-inspired file manager for the console.
   * [devicons](https://github.com/alexanderjeurissen/ranger_devicons) ⭐ 1,004 | 🐛 0 | 🌐 Python | 📅 2025-06-05 - File glyphs / icon support to Ranger.
 
 #### Editor
 
-* [neovim](https://github.com/neovim/neovim) ⭐ 102,361 | 🐛 1,913 | 🌐 Vim Script | 📅 2026-09-16 - Vim-fork focused on extensibility and usability.
-* [Helix](https://github.com/helix-editor/helix) ⭐ 46,241 | 🐛 1,664 | 🌐 Rust | 📅 2026-09-15 - Post-modern text editor.
-* [vim](https://github.com/vim/vim) ⭐ 40,892 | 🐛 1,617 | 🌐 Vim Script | 📅 2026-09-15 - Highly configurable text editor built to enable efficient text editing.
-* [micro](https://github.com/zyedidia/micro) ⭐ 29,597 | 🐛 933 | 🌐 Go | 📅 2026-09-16 - Modern and intuitive terminal-based text editor.
-* [kakoune](https://github.com/mawww/kakoune) ⭐ 11,053 | 🐛 919 | 🌐 C++ | 📅 2026-09-15 - Modal editor with multiple selections and orthogonal design.
+* [neovim](https://github.com/neovim/neovim) ⭐ 102,382 | 🐛 1,915 | 🌐 Vim Script | 📅 2026-09-17 - Vim-fork focused on extensibility and usability.
+* [Helix](https://github.com/helix-editor/helix) ⭐ 46,252 | 🐛 1,665 | 🌐 Rust | 📅 2026-09-15 - Post-modern text editor.
+* [vim](https://github.com/vim/vim) ⭐ 40,893 | 🐛 1,619 | 🌐 Vim Script | 📅 2026-09-16 - Highly configurable text editor built to enable efficient text editing.
+* [micro](https://github.com/zyedidia/micro) ⭐ 29,601 | 🐛 934 | 🌐 Go | 📅 2026-09-17 - Modern and intuitive terminal-based text editor.
+* [kakoune](https://github.com/mawww/kakoune) ⭐ 11,054 | 🐛 919 | 🌐 C++ | 📅 2026-09-15 - Modal editor with multiple selections and orthogonal design.
 * [nano](https://github.com/madnight/nano) ⭐ 186 | 🐛 3 | 🌐 C | 📅 2026-09-14 - Simple and easy-to-use text editor.
 
 #### Image Printing
 
-* [timg](https://github.com/hzeller/timg) ⭐ 2,756 | 🐛 36 | 🌐 C++ | 📅 2026-08-05 - User-friendly terminal image viewer that uses graphic capabilities of terminals.
+* [timg](https://github.com/hzeller/timg) ⭐ 2,757 | 🐛 36 | 🌐 C++ | 📅 2026-08-05 - User-friendly terminal image viewer that uses graphic capabilities of terminals.
 * [catimg](https://github.com/posva/catimg) ⭐ 1,577 | 🐛 13 | 🌐 C | 📅 2026-04-07 - Insanely fast image printing in your terminal.
 * [imcat](https://github.com/stolk/imcat) ⭐ 346 | 🐛 12 | 🌐 C | 📅 2025-05-25 - Show any image in a terminal window.
 
 #### Music Players
 
-* [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,350 | 🐛 306 | 🌐 Rust | 📅 2024-04-04<sup>Spotify</sup> - Spotify for the terminal written in Rust.
-* [spotify\_player](https://github.com/aome510/spotify-player) ⭐ 7,216 | 🐛 154 | 🌐 Rust | 📅 2026-09-12<sup>Spotify</sup> - Spotify player in the terminal with full feature parity.
+* [spotify-tui](https://github.com/Rigellute/spotify-tui) ⭐ 19,351 | 🐛 306 | 🌐 Rust | 📅 2024-04-04<sup>Spotify</sup> - Spotify for the terminal written in Rust.
+* [spotify\_player](https://github.com/aome510/spotify-player) ⭐ 7,218 | 🐛 155 | 🌐 Rust | 📅 2026-09-12<sup>Spotify</sup> - Spotify player in the terminal with full feature parity.
 * [cmus](https://github.com/cmus/cmus) ⭐ 6,241 | 🐛 219 | 🌐 C | 📅 2026-08-12 - Small, fast and powerful console music player.
-* [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) ⭐ 2,480 | 🐛 226 | 🌐 C++ | 📅 2026-09-14 - [MPD](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,772 | 🐛 167 | 🌐 C++ | 📅 2026-09-04 - Featureful ncurses based MPD client.
+* [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) ⭐ 2,480 | 🐛 226 | 🌐 C++ | 📅 2026-09-14 - [MPD](https://github.com/MusicPlayerDaemon/MPD) ⭐ 2,773 | 🐛 167 | 🌐 C++ | 📅 2026-09-04 - Featureful ncurses based MPD client.
 
 #### System Monitoring
 
-* [btop](https://github.com/aristocratos/btop) ⭐ 34,596 | 🐛 539 | 🌐 C++ | 📅 2026-09-09 - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,581 | 🐛 103 | 🌐 Python | 📅 2026-09-13 - Glances an Eye on your system.
-* [htop](https://github.com/htop-dev/htop) ⭐ 8,328 | 🐛 354 | 🌐 C | 📅 2026-09-15 - Interactive process viewer.
+* [btop](https://github.com/aristocratos/btop) ⭐ 34,613 | 🐛 539 | 🌐 C++ | 📅 2026-09-16 - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,589 | 🐛 103 | 🌐 Python | 📅 2026-09-13 - Glances an Eye on your system.
+* [htop](https://github.com/htop-dev/htop) ⭐ 8,330 | 🐛 352 | 🌐 C | 📅 2026-09-17 - Interactive process viewer.
 * [s-tui](https://github.com/amanusk/s-tui) ⭐ 5,092 | 🐛 39 | 🌐 Python | 📅 2026-09-15 - Terminal-based CPU stress and monitoring utility.
 
 #### Mail Client
@@ -475,7 +475,7 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Screenshot
 
-* [scrot](https://github.com/resurrecting-open-source-projects/scrot) ⭐ 600 | 🐛 18 | 🌐 C | 📅 2026-03-14 - Command line screen capture utility.
+* [scrot](https://github.com/resurrecting-open-source-projects/scrot) ⭐ 599 | 🐛 18 | 🌐 C | 📅 2026-03-14 - Command line screen capture utility.
 
 #### Recording
 
@@ -483,34 +483,34 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Directory Listing
 
-* [eza](https://github.com/eza-community/eza) ⭐ 23,288 | 🐛 451 | 🌐 Rust | 📅 2026-08-06 - Modern alternative to `ls`.
-* [lsd](https://github.com/Peltoche/lsd) ⭐ 16,222 | 🐛 208 | 🌐 Rust | 📅 2026-08-17 - The next gen `ls` command.
-* [Color LS](https://github.com/athityakumar/colorls) ⭐ 5,136 | 🐛 87 | 🌐 Ruby | 📅 2026-07-27 - Ruby gem that beautifies the terminal's `ls` command with color and font-awesome icons.
+* [eza](https://github.com/eza-community/eza) ⭐ 23,293 | 🐛 452 | 🌐 Rust | 📅 2026-08-06 - Modern alternative to `ls`.
+* [lsd](https://github.com/Peltoche/lsd) ⭐ 16,224 | 🐛 208 | 🌐 Rust | 📅 2026-08-17 - The next gen `ls` command.
+* [Color LS](https://github.com/athityakumar/colorls) ⭐ 5,139 | 🐛 87 | 🌐 Ruby | 📅 2026-07-27 - Ruby gem that beautifies the terminal's `ls` command with color and font-awesome icons.
 * [logo-ls](https://github.com/Yash-Handa/logo-ls) ⭐ 1,187 | 🐛 37 | 🌐 Go | 📅 2023-05-10 - Modern `ls` command with vscode like file icons and `git` integrations.
 
 #### Misc
 
-* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,088 | 🐛 390 | 🌐 Shell | 📅 2026-09-11 - POSIX-compliant bash script to manage multiple active node.js versions.
+* [nvm](https://github.com/nvm-sh/nvm) ⭐ 95,102 | 🐛 390 | 🌐 Shell | 📅 2026-09-11 - POSIX-compliant bash script to manage multiple active node.js versions.
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) ⭐ 6,033 | 🐛 8 | 🌐 TypeScript | 📅 2025-11-14 - Beautiful images of your code — from right inside your terminal.
 * [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) ⭐ 3,371 | 🐛 72 | 🌐 Haskell | 📅 2026-05-10 - Shell script which checks your $HOME for unwanted files and directories.
 * [evillimiter](https://github.com/bitbrute/evillimiter) ⭐ 2,020 | 🐛 28 | 🌐 Python | 📅 2026-03-24 - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
-* [arch-update](https://github.com/Antiz96/arch-update) ⭐ 444 | 🐛 1 | 🌐 Shell | 📅 2026-09-14 - Update applier for Arch Linux that assists you with important pre/post update tasks.
+* [arch-update](https://github.com/Antiz96/arch-update) ⭐ 446 | 🐛 4 | 🌐 Shell | 📅 2026-09-16 - Update applier for Arch Linux that assists you with important pre/post update tasks.
 * [ncdu](https://code.blicky.net/yorhel/ncdu) - Disk usage analyzer with an ncurses interface.
 * more:
-  * [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,627 | 🐛 186 | 📅 2025-08-28
-  * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,404 | 🐛 0 | 🌐 Shell | 📅 2026-09-13
+  * [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,632 | 🐛 186 | 📅 2025-08-28
+  * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,410 | 🐛 0 | 🌐 Shell | 📅 2026-09-13
 
 ### Fancies
 
 #### Fetch
 
-* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,655 | 🐛 90 | 🌐 C | 📅 2026-09-15 - Feature-rich and performance oriented, `neofetch` like system information tool.
+* [fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,666 | 🐛 93 | 🌐 C | 📅 2026-09-17 - Feature-rich and performance oriented, `neofetch` like system information tool.
 * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived - Command-line system information tool written in bash.
   * [neofetch-themes](https://github.com/Chick2D/neofetch-themes) ⭐ 1,736 | 🐛 8 | 🌐 Shell | 📅 2025-12-25 - Collection of themes for `neofetch`.
 * [pfetch](https://github.com/dylanaraps/pfetch) ⚠️ Archived - Pretty system information tool written in POSIX sh.
-* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,102 | 🐛 12 | 🌐 Shell | 📅 2026-08-09 - `neofetch` with LGBTQ+ pride flags.
+* [hyfetch](https://github.com/hykilpikonna/hyfetch) ⭐ 2,103 | 🐛 12 | 🌐 Shell | 📅 2026-08-09 - `neofetch` with LGBTQ+ pride flags.
 * [macchina](https://github.com/Macchina-CLI/macchina/) ⭐ 1,970 | 🐛 12 | 🌐 Rust | 📅 2025-03-08 - System information frontend with an emphasis on performance.
-* [fetch](https://github.com/areofyl/fetch) ⭐ 834 | 🐛 1 | 🌐 C | 📅 2026-09-15 - A `neofetch` alternative with a 3D animated distro logo
+* [fetch](https://github.com/areofyl/fetch) ⭐ 841 | 🐛 1 | 🌐 C | 📅 2026-09-15 - A `neofetch` alternative with a 3D animated distro logo
 * [uwufetch](https://github.com/ad-oliviero/uwufetch) ⭐ 818 | 🐛 11 | 🌐 C | 📅 2026-04-14 - Meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 * [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) ⭐ 660 | 🐛 0 | 🌐 Shell | 📅 2026-07-16 - POSIX \*nix fetch script using Nerdfonts.
 * [nitch](https://github.com/ssleert/nitch) ⭐ 649 | 🐛 32 | 🌐 Nim | 📅 2024-06-22 - Incredibly fast system fetch written in nim.
@@ -522,8 +522,8 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Terminal Visuals
 
-* [SL](https://github.com/mtoyoda/sl) ⭐ 3,331 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL(1): Cure your bad habit of mistyping.
-* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,023 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
+* [SL](https://github.com/mtoyoda/sl) ⭐ 3,332 | 🐛 37 | 🌐 C | 📅 2024-06-11 - SL(1): Cure your bad habit of mistyping.
+* [pipes.sh](https://github.com/pipeseroni/pipes.sh) ⭐ 3,025 | 🐛 14 | 🌐 Shell | 📅 2024-08-12 - Animated pipes terminal screensaver.
 * [Nyancat](https://github.com/klange/nyancat) ⭐ 1,589 | 🐛 17 | 🌐 C | 📅 2024-04-19 - Nyancat in your terminal, rendered through ANSI escape sequences.
 * [arttime](https://github.com/poetaman/arttime) ⭐ 1,385 | 🐛 6 | 🌐 Shell | 📅 2026-08-18 - text art with functionality of clock / timer / pattern-based time manager.
 * [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) ⭐ 1,266 | 🐛 20 | 🌐 Perl | 📅 2023-08-25 - Enjoy the mysteries of the sea from the safety of your own terminal!
@@ -540,15 +540,15 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Audio Visualizer
 
-* [CAVA](https://github.com/karlstav/cava) ⭐ 6,418 | 🐛 18 | 🌐 C | 📅 2026-08-18 - Cross-platform Audio Visualizer.
-* [Musializer](https://github.com/tsoding/musializer) ⭐ 1,466 | 🐛 34 | 🌐 C | 📅 2026-06-27 - Music Visualizer.
+* [CAVA](https://github.com/karlstav/cava) ⭐ 6,421 | 🐛 18 | 🌐 C | 📅 2026-08-18 - Cross-platform Audio Visualizer.
+* [Musializer](https://github.com/tsoding/musializer) ⭐ 1,467 | 🐛 34 | 🌐 C | 📅 2026-06-27 - Music Visualizer.
 * [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) ⭐ 43 | 🐛 1 | 🌐 C++ | 📅 2026-07-19 - Highly customizable real time audio visualizer on Linux.
 * [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2020-09-28 - Highly customizable real time audio visualizer.
 
 #### Matrix
 
-* [CMatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,245 | 🐛 83 | 🌐 C | 📅 2024-08-21 - Terminal based "The Matrix" like implementation.
-* [unimatrix](https://github.com/will8211/unimatrix) ⭐ 1,943 | 🐛 27 | 🌐 Python | 📅 2026-05-20 - Python script to simulate the display from "The Matrix" in terminal.
+* [CMatrix](https://github.com/abishekvashok/cmatrix) ⭐ 5,247 | 🐛 83 | 🌐 C | 📅 2024-08-21 - Terminal based "The Matrix" like implementation.
+* [unimatrix](https://github.com/will8211/unimatrix) ⭐ 1,944 | 🐛 27 | 🌐 Python | 📅 2026-05-20 - Python script to simulate the display from "The Matrix" in terminal.
 * [neo](https://github.com/st3w/neo) ⭐ 960 | 🐛 16 | 🌐 C++ | 📅 2024-04-02 - Simulates the digital rain from "The Matrix".
 
 #### Character Play
@@ -564,12 +564,12 @@ Some great GitHub repos with wallpaper collections by:
 * [pokeget-rs](https://github.com/talwat/pokeget-rs) ⭐ 298 | 🐛 5 | 🌐 Rust | 📅 2026-07-13 - Bash script you can use to display **AWESOME** sprites of pokemon in your terminal.
 * [krabby](https://github.com/yannjor/krabby) ⭐ 237 | 🐛 5 | 🌐 Rust | 📅 2025-03-30 - Print pokemon sprites in your terminal.
 * [Poketex](https://github.com/ckaznable/poketex) ⭐ 218 | 🐛 1 | 🌐 Rust | 📅 2026-05-05 - Simple Pokedex based on TUI.
-* [pokeshell](https://github.com/acxz/pokeshell) ⭐ 208 | 🐛 11 | 🌐 Shell | 📅 2024-11-24 - Featureful shell program to show pokemon sprites in the terminal.
+* [pokeshell](https://github.com/acxz/pokeshell) ⭐ 207 | 🐛 11 | 🌐 Shell | 📅 2024-11-24 - Featureful shell program to show pokemon sprites in the terminal.
 * [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - CLI utility to print out images of pokemon to terminal.
 
 #### Text and Fonts
 
-* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,580 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
+* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,581 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - Rainbows and unicorns!
 * [FIGlet](https://github.com/cmatsuoka/figlet) ⭐ 1,652 | 🐛 16 | 🌐 C | 📅 2023-09-13 - Claudio's FIGlet tree.
 * [toilet](https://github.com/cacalabs/toilet) ⭐ 312 | 🐛 7 | 🌐 C | 📅 2024-05-24 - The Other Implementation of figLET.
 * [lolcrab](https://github.com/mazznoer/lolcrab) ⭐ 171 | 🐛 4 | 🌐 Rust | 📅 2025-12-22 - Like lolcat but with noise and more colorful.
@@ -578,16 +578,16 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Web Browser
 
-* [chromium](https://github.com/chromium/chromium) ⭐ 24,789 | 🐛 28 | 📅 2026-09-16 - Open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
-* [Floorp](https://github.com/Floorp-Projects/Floorp/) ⭐ 8,374 | 🐛 105 | 🌐 TypeScript | 📅 2026-09-16<sup>Firefox</sup> - Browser built for keeping the Open, Private and Sustainable Web alive.
-* [thorium](https://github.com/Alex313031/Thorium) ⭐ 7,502 | 🐛 139 | 🌐 C++ | 📅 2026-08-23<sup>Chromium</sup> - Chromium fork for linux named after radioactive element No. 90.
+* [chromium](https://github.com/chromium/chromium) ⭐ 24,796 | 🐛 28 | 📅 2026-09-17 - Open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
+* [Floorp](https://github.com/Floorp-Projects/Floorp/) ⭐ 8,376 | 🐛 103 | 🌐 TypeScript | 📅 2026-09-17<sup>Firefox</sup> - Browser built for keeping the Open, Private and Sustainable Web alive.
+* [thorium](https://github.com/Alex313031/Thorium) ⭐ 7,505 | 🐛 139 | 🌐 C++ | 📅 2026-08-23<sup>Chromium</sup> - Chromium fork for linux named after radioactive element No. 90.
 * [Firefox](https://www.mozilla.org/firefox) - Free and Open Source web browser focused on privacy, security and customization.
 * [Brave](https://brave.com/)<sup>Chromium</sup> - privacy-focused browser, which automatically blocks most advertisements and website trackers in its default settings.
 * [Tor](https://www.torproject.org/)<sup>Firefox</sup> - Web browser capable of accessing the Tor network.
 
 ### File Manager
 
-* [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,559 | 🐛 324 | 🌐 C | 📅 2026-09-08 - Default file browser for Cinnamon.
+* [Nemo](https://github.com/linuxmint/nemo) ⭐ 1,559 | 🐛 325 | 🌐 C | 📅 2026-09-08 - Default file browser for Cinnamon.
 * [PCmanFM](https://github.com/lxde/pcmanfm) ⭐ 251 | 🐛 35 | 🌐 C | 📅 2026-02-03 - Extremely fast and lightweight file manager.
 * [Nautilus](https://gitlab.gnome.org/GNOME/nautilus) - Default file browser for GNOME.
 * [Dolphin](https://invent.kde.org/system/dolphin) - Default file browser for KDE.
@@ -596,14 +596,14 @@ Some great GitHub repos with wallpaper collections by:
 ### Image Viewer
 
 * [qimgv](https://github.com/easymodo/qimgv) ⭐ 3,126 | 🐛 308 | 🌐 C++ | 📅 2026-01-19 - Image viewer. Fast, easy to use. Optional video support.
-* [feh](https://github.com/derf/feh) ⭐ 1,915 | 🐛 255 | 🌐 C | 📅 2026-09-13 - Fast and light image viewer.
+* [feh](https://github.com/derf/feh) ⭐ 1,916 | 🐛 255 | 🌐 C | 📅 2026-09-16 - Fast and light image viewer.
 * [imv](https://git.sr.ht/~exec64/imv) - Simple image viewer for tiling window managers.
 * [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog) - Default image viewer for GNOME.
 
 ### Music Player
 
-* [feishin](https://github.com/jeffvli/feishin) ⭐ 9,884 | 🐛 234 | 🌐 TypeScript | 📅 2026-09-15 - Modern self-hosted music player.
-* [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef) ⭐ 1,967 | 🐛 380 | 🌐 C | 📅 2026-08-12 - Multiple-platform music player.
+* [feishin](https://github.com/jeffvli/feishin) ⭐ 9,897 | 🐛 238 | 🌐 TypeScript | 📅 2026-09-16 - Modern self-hosted music player.
+* [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef) ⭐ 1,966 | 🐛 380 | 🌐 C | 📅 2026-08-12 - Multiple-platform music player.
 * [G4Music](https://github.com/neithern/g4music) ⭐ 441 | 🐛 67 | 🌐 Vala | 📅 2026-06-27 - Light weight music player written in GTK4, with a fluent adaptive user interface.
 * [lyssa](https://github.com/cococry/lyssa) ⭐ 209 | 🐛 9 | 🌐 C++ | 📅 2024-06-01 - Aestethic, minimal, suckless music player.
 * [Amberol](https://gitlab.gnome.org/World/amberol) - Music player with no delusions of grandeur.
@@ -611,8 +611,8 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Video Streamer
 
-* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,985 | 🐛 1,154 | 🌐 C | 📅 2026-09-14 - Command line video player.
-* [VLC](https://github.com/videolan/vlc) ⭐ 19,655 | 🐛 2 | 🌐 C | 📅 2026-09-16 - Open source media player and multimedia engine, focused on playing everything, and running everywhere.
+* [mpv](https://github.com/mpv-player/mpv) ⭐ 36,997 | 🐛 1,156 | 🌐 C | 📅 2026-09-14 - Command line video player.
+* [VLC](https://github.com/videolan/vlc) ⭐ 19,668 | 🐛 2 | 🌐 C | 📅 2026-09-17 - Open source media player and multimedia engine, focused on playing everything, and running everywhere.
 
 ### Document Reader
 
@@ -621,9 +621,9 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Text Editor
 
-* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,257 | 🐛 141 | 🌐 Shell | 📅 2026-09-09 - Binary releases of VS Code without MS branding/telemetry/licensing.
-* [geany](https://github.com/geany/geany) ⭐ 3,717 | 🐛 1,280 | 🌐 C | 📅 2026-09-14 - Lightweight and fast IDE.
-* [kate](https://github.com/KDE/kate) ⭐ 1,120 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 - Modern text editor built on the KDE Frameworks and Qt.
+* [vscodium](https://github.com/VSCodium/vscodium) ⭐ 33,272 | 🐛 147 | 🌐 Shell | 📅 2026-09-16 - Binary releases of VS Code without MS branding/telemetry/licensing.
+* [geany](https://github.com/geany/geany) ⭐ 3,718 | 🐛 1,280 | 🌐 C | 📅 2026-09-14 - Lightweight and fast IDE.
+* [kate](https://github.com/KDE/kate) ⭐ 1,120 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Modern text editor built on the KDE Frameworks and Qt.
 * [gedit](https://gitlab.gnome.org/GNOME/gedit) - Default text editor for GNOME.
 
 ### Archive Manager
@@ -632,7 +632,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Email
 
-* [Thunderbird](https://github.com/mozilla/releases-comm-central) ⭐ 194 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-16 - Powerful and customizable open source email client with lots of users.
+* [Thunderbird](https://github.com/mozilla/releases-comm-central) ⭐ 194 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-17 - Powerful and customizable open source email client with lots of users.
 
 ### Calculator
 
@@ -640,7 +640,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Notes
 
-* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 76,751 | 🐛 1,031 | 🌐 Dart | 📅 2026-09-15 - AI collaborative workspace where you achieve more without losing control of your data.
+* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 76,783 | 🐛 1,033 | 🌐 Dart | 📅 2026-09-15 - AI collaborative workspace where you achieve more without losing control of your data.
 * [qnote](https://github.com/Omibranch/qnote) ⚠️ Archived - Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. Built with Tauri 2. Available on AUR.
 * [Obsidian](https://obsidian.md/) - Personal knowledge base and note-taking software application that operates on Markdown files.
 
@@ -648,20 +648,20 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Image Editing
 
-* [krita](https://github.com/KDE/krita) ⭐ 10,379 | 🐛 0 | 🌐 C++ | 📅 2026-09-15 - Digital painting and illustration application.
+* [krita](https://github.com/KDE/krita) ⭐ 10,382 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Digital painting and illustration application.
 * [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program.
 * [Inkscape](https://gitlab.com/inkscape/inkscape) - Professional vector graphics editor.
 
 #### Video Editing
 
 * [Olive](https://github.com/olive-editor/olive) ⭐ 9,136 | 🐛 159 | 🌐 C++ | 📅 2024-12-05 - Free non-linear video editor.
-* [Kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,693 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 - Free and open source video editor, based on MLT Framework and KDE Frameworks.
+* [Kdenlive](https://github.com/KDE/kdenlive) ⭐ 5,698 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Free and open source video editor, based on MLT Framework and KDE Frameworks.
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing software.
 
 #### Music Production
 
-* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,112 | 🐛 4,221 | 🌐 C++ | 📅 2026-09-16 - Open source and free music notation software.
-* [lmms](https://github.com/lmms/lmms) ⭐ 10,366 | 🐛 1,449 | 🌐 C++ | 📅 2026-09-15 - Cross-platform music production software.
+* [MuseScore](https://github.com/musescore/MuseScore) ⭐ 15,114 | 🐛 4,221 | 🌐 C++ | 📅 2026-09-17 - Open source and free music notation software.
+* [lmms](https://github.com/lmms/lmms) ⭐ 10,369 | 🐛 1,452 | 🌐 C++ | 📅 2026-09-15 - Cross-platform music production software.
 * [Blue](https://github.com/kunstmusik/blue) ⭐ 152 | 🐛 295 | 🌐 Java | 📅 2026-07-04 - Integrated Music Environment.
 * [Ardour](https://ardour.org/) - Hard disk recorder and digital audio workstation application.
 * [reaper](https://www.reaper.fm/) - Digital audio workstation, MIDI sequencer and video editing software application.
@@ -669,10 +669,10 @@ Some great GitHub repos with wallpaper collections by:
 
 #### 3D
 
-* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,559 | 🐛 4,059 | 🌐 C++ | 📅 2026-09-16 - Open-source parametric 3D CAD modeler.
-* [blender](https://github.com/blender/blender) ⭐ 20,369 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 - Popular free and open-source 3D computer graphics software toolset.
-* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,830 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 - Open source mesh processing system.
-* [wings](https://github.com/dgud/wings) ⭐ 667 | 🐛 19 | 🌐 Erlang | 📅 2026-09-08 - Advanced sub-division 3D modeler.
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,586 | 🐛 4,068 | 🌐 C++ | 📅 2026-09-17 - Open-source parametric 3D CAD modeler.
+* [blender](https://github.com/blender/blender) ⭐ 20,394 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Popular free and open-source 3D computer graphics software toolset.
+* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,834 | 🐛 194 | 🌐 C++ | 📅 2026-08-25 - Open source mesh processing system.
+* [wings](https://github.com/dgud/wings) ⭐ 668 | 🐛 19 | 🌐 Erlang | 📅 2026-09-08 - Advanced sub-division 3D modeler.
 
 #### Office
 
@@ -682,16 +682,16 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Screen Recording / Live Streaming
 
-* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 76,269 | 🐛 1,142 | 🌐 C | 📅 2026-09-15 - Open Broadcaster Software.
+* [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 76,307 | 🐛 1,144 | 🌐 C | 📅 2026-09-15 - Open Broadcaster Software.
 * [ssr](https://github.com/MaartenBaert/ssr) ⭐ 2,892 | 🐛 527 | 🌐 C++ | 📅 2026-08-14 - SimpleScreenRecorder, screen recorder for Linux.
-* [kazam](https://github.com/henrywoo/kazam) ⭐ 389 | 🐛 30 | 🌐 Python | 📅 2026-09-11 - Linux Screen Recorder, Broadcaster, Capture and OCR with AI in mind.
+* [kazam](https://github.com/henrywoo/kazam) ⭐ 390 | 🐛 30 | 🌐 Python | 📅 2026-09-11 - Linux Screen Recorder, Broadcaster, Capture and OCR with AI in mind.
 
 ### Gaming
 
-* [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,215 | 🐛 883 | 🌐 TypeScript | 📅 2026-09-15 - Games launcher for GOG, Amazon and Epic Games.
-* [Lutris](https://github.com/lutris/lutris) ⭐ 10,242 | 🐛 317 | 🌐 Python | 📅 2026-09-15 - Game Launcher that helps you manage, install and play games from all eras and from most gaming systems.
+* [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,219 | 🐛 884 | 🌐 TypeScript | 📅 2026-09-17 - Games launcher for GOG, Amazon and Epic Games.
+* [Lutris](https://github.com/lutris/lutris) ⭐ 10,244 | 🐛 319 | 🌐 Python | 📅 2026-09-15 - Game Launcher that helps you manage, install and play games from all eras and from most gaming systems.
 * [Rare](https://github.com/RareDevs/Rare) ⭐ 929 | 🐛 40 | 🌐 Python | 📅 2026-08-30 - Open source alternative for Epic Games Launcher.
-* [Cartridges](https://github.com/kra-mo/cartridges) ⭐ 831 | 🐛 29 | 🌐 Python | 📅 2026-09-03 - Easy-to-use, elegant game launcher.
+* [Cartridges](https://github.com/kra-mo/cartridges) ⭐ 832 | 🐛 29 | 🌐 Python | 📅 2026-09-03 - Easy-to-use, elegant game launcher.
 * [Steam](https://store.steampowered.com/about/) - Digital distribution platform and games launcher that allows games to run through Proton.
 
 > \[!TIP]
@@ -715,7 +715,7 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Startpage
 
-* [nightTab](https://github.com/zombieFox/nightTab) ⭐ 2,050 | 🐛 110 | 🌐 JavaScript | 📅 2024-10-19 - Neutral new tab page accented with a chosen colour.
+* [nightTab](https://github.com/zombieFox/nightTab) ⭐ 2,051 | 🐛 110 | 🌐 JavaScript | 📅 2024-10-19 - Neutral new tab page accented with a chosen colour.
 * [Excalith](https://github.com/excalith/excalith-start-page) ⭐ 747 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - Terminal-inspired, clean, feature-rich and customizable browser start page.
 * [Starter Tab](https://github.com/allister-grange/startertab) ⭐ 413 | 🐛 4 | 🌐 TypeScript | 📅 2025-10-17 - Custom new tab page, keeping all the best info handy.
 * [dawn](https://github.com/b-coimbra/dawn) ⭐ 410 | 🐛 2 | 🌐 JavaScript | 📅 2024-05-25 - Minimal modern startpage.
@@ -724,7 +724,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Spotify
 
-* [Spicetify](https://github.com/spicetify/spicetify-cli) ⭐ 24,519 | 🐛 16 | 🌐 JavaScript | 📅 2026-09-15 - Powerful CLI tool to take control of the Spotify client.
+* [Spicetify](https://github.com/spicetify/spicetify-cli) ⭐ 24,530 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-17 - Powerful CLI tool to take control of the Spotify client.
   * [spicetify-themes](https://github.com/spicetify/spicetify-themes) ⭐ 6,079 | 🐛 12 | 🌐 CSS | 📅 2026-09-16 - The official Spicetify themes repository.
   * [comfy](https://github.com/NYRI4/Comfy-spicetify) ⭐ 801 | 🐛 26 | 🌐 JavaScript | 📅 2026-01-04 - Stay comfy while listening to music.
   * [bloom](https://github.com/nimsandu/spicetify-bloom) ⭐ 682 | 🐛 12 | 🌐 CSS | 📅 2025-05-20 - Powerful theme to calm your eyes while listening to your favorite beats.
@@ -736,8 +736,8 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Discord
 
-* [Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,095 | 🐛 307 | 🌐 TypeScript | 📅 2026-09-16 - Cutest Discord client mod.
-* [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,239 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-11 - Client modification for Discord with endless flexibility and addons.
+* [Vencord](https://github.com/Vendicated/Vencord) ⭐ 14,099 | 🐛 309 | 🌐 TypeScript | 📅 2026-09-16 - Cutest Discord client mod.
+* [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) ⭐ 9,237 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-11 - Client modification for Discord with endless flexibility and addons.
   * [Themes](https://betterdiscord.app/themes) - Collection of themes for BetterDiscord.
 
 ### VSCode
@@ -763,9 +763,9 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [ly](https://github.com/fairyglade/ly) ⭐ 7,588 | 🐛 0 | 🌐 Zig | 📅 2026-09-08 - Display manager with console UI.
+* [ly](https://github.com/fairyglade/ly) ⭐ 7,592 | 🐛 0 | 🌐 Zig | 📅 2026-09-08 - Display manager with console UI.
 * [sddm](https://github.com/sddm/sddm) ⭐ 2,350 | 🐛 754 | 🌐 C++ | 📅 2026-08-19 - QML based X11 and Wayland display manager.
-  * [astronaut](https://github.com/Keyitdev/sddm-astronaut-theme) ⭐ 3,260 | 🐛 15 | 🌐 QML | 📅 2026-07-16 - Modern looking sddm qt6 theme.
+  * [astronaut](https://github.com/Keyitdev/sddm-astronaut-theme) ⭐ 3,263 | 🐛 15 | 🌐 QML | 📅 2026-07-16 - Modern looking sddm qt6 theme.
   * [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark) ⭐ 310 | 🐛 18 | 🌐 QML | 📅 2023-04-26 - The sweetest dark theme around for SDDM.
   * [corners](https://github.com/aczw/sddm-theme-corners) ⭐ 299 | 🐛 9 | 🌐 QML | 📅 2024-03-14 - Customizable SDDM theme that puts stuff on your screen corners.
   * [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm) ⚠️ Archived - Tokyo Night theme for SDDM.
@@ -786,8 +786,8 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
-* [grub2-themes](https://github.com/vinceliuice/grub2-themes) ⭐ 4,616 | 🐛 60 | 🌐 Shell | 📅 2026-09-01 - Modern design GRUB theme collection.
-* [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,605 | 🐛 7 | 🌐 Python | 📅 2026-08-27 -  GRUB theme in Minecraft style.
+* [grub2-themes](https://github.com/vinceliuice/grub2-themes) ⭐ 4,621 | 🐛 60 | 🌐 Shell | 📅 2026-09-01 - Modern design GRUB theme collection.
+* [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,607 | 🐛 7 | 🌐 Python | 📅 2026-08-27 -  GRUB theme in Minecraft style.
 * [Matter](https://github.com/mateosss/matter) ⭐ 930 | 🐛 20 | 🌐 Python | 📅 2022-07-25 - Customizable GRUB theme inspired by Material Design.
 * [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme) ⭐ 404 | 🐛 6 | 🌐 Python | 📅 2026-06-14 - Dark Matter GRUB Theme.
 * [Poly dark](https://github.com/shvchk/poly-dark) ⭐ 213 | 🐛 3 | 🌐 Shell | 📅 2023-07-24 -  Poly dark GRUB theme.
@@ -816,4 +816,4 @@ Any helpful contribution is welcome, see [CONTRIBUTING](CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
