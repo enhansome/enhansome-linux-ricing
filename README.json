@@ -20,7 +20,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-09-21T12:28:58Z",
-                    "open_issues": 1390,
+                    "open_issues": 1391,
                     "owner": "swaywm",
                     "repo": "sway",
                     "stars": 17392,
@@ -156,7 +156,7 @@
                     "open_issues": 199,
                     "owner": "hyprwm",
                     "repo": "Hyprland",
-                    "stars": 38799,
+                    "stars": 38801,
                     "topics": [
                       "compositor",
                       "cpp26",
@@ -182,7 +182,7 @@
                     "open_issues": 460,
                     "owner": "niri-wm",
                     "repo": "niri",
-                    "stars": 28228,
+                    "stars": 28229,
                     "topics": [
                       "rust",
                       "smithay",
@@ -907,7 +907,7 @@
             "open_issues": 10,
             "owner": "D3Ext",
             "repo": "aesthetic-wallpapers",
-            "stars": 3565,
+            "stars": 3566,
             "topics": [
               "2023",
               "aesthetic",
@@ -1708,7 +1708,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T17:12:34Z",
-                "open_issues": 755,
+                "open_issues": 756,
                 "owner": "Alexays",
                 "repo": "Waybar",
                 "stars": 12032,
@@ -2917,7 +2917,7 @@
                     "open_issues": 258,
                     "owner": "ghostty-org",
                     "repo": "ghostty",
-                    "stars": 61885,
+                    "stars": 61887,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:41:17.545Z"
@@ -2935,7 +2935,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-06T10:07:20Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "kovidgoyal",
                     "repo": "kitty",
                     "stars": 35180,
@@ -3035,7 +3035,7 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-10-05T21:37:30Z",
-                    "open_issues": 1472,
+                    "open_issues": 1473,
                     "owner": "nushell",
                     "repo": "nushell",
                     "stars": 40626,
@@ -3096,7 +3096,7 @@
                     "open_issues": 557,
                     "owner": "fish-shell",
                     "repo": "fish-shell",
-                    "stars": 34260,
+                    "stars": 34261,
                     "topics": [
                       "fish",
                       "rust",
@@ -3163,7 +3163,7 @@
                         "open_issues": 303,
                         "owner": "ohmyzsh",
                         "repo": "ohmyzsh",
-                        "stars": 190178,
+                        "stars": 190185,
                         "topics": [
                           "cli",
                           "cli-app",
@@ -3431,11 +3431,11 @@
                 "id": 175405157,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:47:50Z",
+                "last_commit": "2026-10-06T11:18:16Z",
                 "open_issues": 5,
                 "owner": "JanDeDobbeleer",
                 "repo": "oh-my-posh",
-                "stars": 23549,
+                "stars": 23548,
                 "topics": [
                   "bash",
                   "cmd",
@@ -3566,7 +3566,7 @@
                 "open_issues": 39,
                 "owner": "tmux",
                 "repo": "tmux",
-                "stars": 49781,
+                "stars": 49788,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:41:17.545Z"
@@ -3616,7 +3616,7 @@
                         "open_issues": 64,
                         "owner": "sxyazi",
                         "repo": "yazi",
-                        "stars": 42640,
+                        "stars": 42642,
                         "topics": [
                           "android",
                           "asyncio",
@@ -3657,7 +3657,7 @@
                         "open_issues": 285,
                         "owner": "yorukot",
                         "repo": "superfile",
-                        "stars": 23680,
+                        "stars": 23681,
                         "topics": [
                           "bubbletea",
                           "cli",
@@ -3790,10 +3790,10 @@
                         "language": "Vim Script",
                         "license": "NOASSERTION",
                         "last_commit": "2026-10-06T09:22:44Z",
-                        "open_issues": 1942,
+                        "open_issues": 1943,
                         "owner": "neovim",
                         "repo": "neovim",
-                        "stars": 102864,
+                        "stars": 102873,
                         "topics": [
                           "api",
                           "c",
@@ -3848,7 +3848,7 @@
                         "open_issues": 1655,
                         "owner": "vim",
                         "repo": "vim",
-                        "stars": 41134,
+                        "stars": 41135,
                         "topics": [
                           "c",
                           "cross-platform",
@@ -4167,7 +4167,7 @@
                         "open_issues": 565,
                         "owner": "aristocratos",
                         "repo": "btop",
-                        "stars": 34888,
+                        "stars": 34889,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T16:41:17.545Z"
@@ -5907,7 +5907,7 @@
                 "id": 120360765,
                 "language": null,
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T08:48:30Z",
+                "last_commit": "2026-10-06T11:11:45Z",
                 "open_issues": 28,
                 "owner": "chromium",
                 "repo": "chromium",
@@ -5935,7 +5935,7 @@
                 "open_issues": 96,
                 "owner": "Floorp-Projects",
                 "repo": "Floorp",
-                "stars": 8416,
+                "stars": 8415,
                 "topics": [
                   "browser",
                   "firefox",
@@ -6126,7 +6126,7 @@
                 "open_issues": 282,
                 "owner": "jeffvli",
                 "repo": "feishin",
-                "stars": 10078,
+                "stars": 10079,
                 "topics": [
                   "jellyfin",
                   "music-player",
@@ -6709,8 +6709,8 @@
                     "id": 5736080,
                     "language": "C++",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-10-06T09:33:07Z",
-                    "open_issues": 3943,
+                    "last_commit": "2026-10-06T11:13:34Z",
+                    "open_issues": 3942,
                     "owner": "FreeCAD",
                     "repo": "FreeCAD",
                     "stars": 33973,
@@ -6747,11 +6747,11 @@
                     "id": 213916896,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T10:24:50Z",
+                    "last_commit": "2026-10-06T11:14:51Z",
                     "open_issues": 0,
                     "owner": "blender",
                     "repo": "blender",
-                    "stars": 20709,
+                    "stars": 20710,
                     "topics": [
                       "3d",
                       "animation",
@@ -6845,7 +6845,7 @@
                     "open_issues": 1148,
                     "owner": "obsproject",
                     "repo": "obs-studio",
-                    "stars": 77042,
+                    "stars": 77044,
                     "topics": [
                       "c",
                       "c-plus-plus",
@@ -6964,8 +6964,8 @@
                 "id": 13419223,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T20:14:30Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-06T10:54:05Z",
+                "open_issues": 313,
                 "owner": "lutris",
                 "repo": "lutris",
                 "stars": 10293,
@@ -7021,7 +7021,7 @@
                 "open_issues": 29,
                 "owner": "kra-mo",
                 "repo": "cartridges",
-                "stars": 829,
+                "stars": 828,
                 "topics": [
                   "bottles",
                   "flatpak",
@@ -7786,7 +7786,7 @@
                 "open_issues": 292,
                 "owner": "Vendicated",
                 "repo": "Vencord",
-                "stars": 14192,
+                "stars": 14193,
                 "topics": [
                   "discord",
                   "mod",
@@ -8525,7 +8525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:48:57.069Z",
+    "last_updated": "2026-10-06T11:18:47.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.",
